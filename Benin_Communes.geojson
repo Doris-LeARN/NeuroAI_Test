@@ -1,0 +1,1069 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    2.435696,
+                    11.2934532
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Banikoara",
+                "name": "Banikoara"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6983868,
+                    10.6981859
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Gogounou",
+                "name": "Gogounou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.9325785,
+                    11.1305191
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kandi",
+                "name": "Kandi"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.1842421,
+                    12.0694249
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Karimama",
+                "name": "Karimama"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.384247299999999,
+                    11.8633332
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Malanville",
+                "name": "Malanville"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.6952896,
+                    10.9274024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Segbana",
+                "name": "Segbana"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.0921473,
+                    10.1853232
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Boukombé",
+                "name": "Boukombé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.8675134,
+                    10.4834476
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Cobly",
+                "name": "Cobly"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1106617,
+                    10.8323229
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kérou",
+                "name": "Kérou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6930787,
+                    10.3313409
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kouandé",
+                "name": "Kouandé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    0.9940179,
+                    10.7279374
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Matéri",
+                "name": "Matéri"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.3806902,
+                    10.2963526
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Natitinqou",
+                "name": "Natitinqou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.002836,
+                    10.2370641
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pehonko",
+                "name": "Pehonko"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.2650349,
+                    10.6227552
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Tanguiéta",
+                "name": "Tanguiéta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.4821482,
+                    10.4811926
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Toucountouna",
+                "name": "Toucountouna"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3468195,
+                    6.4503024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Abomey Calavi",
+                "name": "Abomey Calavi"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1597595,
+                    6.664462899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Allada",
+                "name": "Allada"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.0077316,
+                    6.4677187
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kpomassè",
+                "name": "Kpomassè"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.0763253,
+                    6.371647400000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ouidah",
+                "name": "Ouidah"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.0815354,
+                    6.8443596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Toffo",
+                "name": "Toffo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.14748,
+                    6.5017792
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Tori-Bossito",
+                "name": "Tori-Bossito"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.341887,
+                    6.7866154
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Zè",
+                "name": "Zè"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6660901,
+                    10.2183336
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bembéréké",
+                "name": "Bembéréké"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.3817264,
+                    10.2901302
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kalalé",
+                "name": "Kalalé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7133005,
+                    9.863038699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ndali",
+                "name": "Ndali"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.2131232,
+                    9.936763
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Nikki",
+                "name": "Nikki"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6090043,
+                    9.3466822
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Parakou",
+                "name": "Parakou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.9913073,
+                    9.7979899
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Péréré",
+                "name": "Péréré"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3838304,
+                    10.3438309
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sinendé",
+                "name": "Sinendé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.5941239,
+                    8.8879709
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Tchaourou",
+                "name": "Tchaourou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.8879469,
+                    8.411178
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Banté",
+                "name": "Banté"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1990763,
+                    7.784908700000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Dassa",
+                "name": "Dassa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.2445791,
+                    7.973678199999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Glazoué",
+                "name": "Glazoué"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4233417,
+                    8.4959624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ouessé",
+                "name": "Ouessé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.9710284,
+                    7.9301365
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Savalou",
+                "name": "Savalou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4851463,
+                    8.0335995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Save",
+                "name": "Save"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6736397,
+                    6.9421349
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Aplahoué",
+                "name": "Aplahoué"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6955092,
+                    6.8535694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Djakotomey",
+                "name": "Djakotomey"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.7879685,
+                    6.805022699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Doqbo",
+                "name": "Doqbo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.8123324,
+                    7.024857700000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Klouékanmè",
+                "name": "Klouékanmè"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.8893261,
+                    6.929294100000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Lalo",
+                "name": "Lalo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.8123324,
+                    6.896031499999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Toviklin",
+                "name": "Toviklin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6639235,
+                    9.006393
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bassila",
+                "name": "Bassila"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.5474988,
+                    9.8396668
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Copargo",
+                "name": "Copargo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6663523,
+                    9.7080916
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Djougou",
+                "name": "Djougou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.3867226,
+                    9.6633785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ouaké",
+                "name": "Ouaké"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3912362,
+                    6.370292799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Cotonou",
+                "name": "Cotonou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6809283,
+                    6.591543499999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Athiémé",
+                "name": "Athiémé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.949021,
+                    6.702746899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bopa",
+                "name": "Bopa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.8855057,
+                    6.409616799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Comé",
+                "name": "Comé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.7417143,
+                    6.263932399999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Grand Popo",
+                "name": "Grand Popo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.851343,
+                    6.5535953
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Houéyogbé",
+                "name": "Houéyogbé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.7198215,
+                    6.644809299999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Lokossa",
+                "name": "Lokossa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6636066,
+                    6.5233156
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Adjarra",
+                "name": "Adjarra"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4999918,
+                    6.700266299999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Adjohoun",
+                "name": "Adjohoun"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.5569436,
+                    6.4892335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Aguégués",
+                "name": "Aguégués"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.5842062,
+                    6.566374299999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Akpro-Missérété",
+                "name": "Akpro-Missérété"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6487087,
+                    6.5607071
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Avrankou",
+                "name": "Avrankou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4525531,
+                    6.9077493
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bonou",
+                "name": "Bonou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.5519637,
+                    6.583719299999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Dangbo",
+                "name": "Dangbo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6288523,
+                    6.496857400000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Porto-Novo",
+                "name": "Porto-Novo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6387795,
+                    6.4222758
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sèmè-Kpodji",
+                "name": "Sèmè-Kpodji"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.5990835,
+                    6.9782324
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Adja-Ouèrè",
+                "name": "Adja-Ouèrè"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7182728,
+                    6.677743999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ifangni",
+                "name": "Ifangni"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6040436,
+                    7.360337599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kétou",
+                "name": "Kétou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6636066,
+                    6.9832415
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pobé",
+                "name": "Pobé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6636066,
+                    6.736827399999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Sakété",
+                "name": "Sakété"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.9979411,
+                    7.185477299999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Abomey",
+                "name": "Abomey"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.9636914,
+                    7.072622699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Agbangnizoun",
+                "name": "Agbangnizoun"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.0714223,
+                    7.179768399999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bohicon",
+                "name": "Bohicon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3394209,
+                    7.2188798
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Cové",
+                "name": "Cové"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.9355775,
+                    7.3461574
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Djidja",
+                "name": "Djidja"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4801989,
+                    7.064799899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ouinhi",
+                "name": "Ouinhi"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.2039933,
+                    7.238408799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Za-Kpota",
+                "name": "Za-Kpota"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4011124,
+                    7.280538900000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Zangnanado",
+                "name": "Zangnanado"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1843285,
+                    7.0447732
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Zogbodomey",
+                "name": "Zogbodomey"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

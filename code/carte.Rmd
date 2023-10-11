@@ -1,0 +1,140 @@
+---
+title: "carte"
+author: "Aichata"
+date: "2023-08-08"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(gsheet)
+
+NeuroAI<- gsheet2tbl("https://docs.google.com/spreadsheets/d/12YYCgXy50Ls30IF2OWQhdCsoU6FeuaYXYvtped1WwLg/edit?usp=sharing")
+
+
+```
+
+```{r}
+Pfizer <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1PMukDyipKXARCMDDAwWloPK50Q5D0xHaj-90GvX_ibg/edit?usp=sharing")
+
+Pfizer<- transform(Pfizer, lat = as.numeric(lat), 
+               lon = as.numeric(lon))
+```
+
+# carte marker
+
+```{r}
+library(leaflet)
+
+leaflet() %>% 
+setView(lng = 2, lat =9, zoom = 6.5) %>% 
+  addTiles(group = "Title") %>%
+  addMarkers(data=NeuroAI,lat= ~lat, lng = ~lon,popup=Pfizer$Company,
+             clusterOptions = markerClusterOptions) %>%
+  addScaleBar() %>%
+  addMiniMap()
+```
+
+# carte choropleth
+
+```{r}
+library(jsonlite)
+## from this link: http://geojson.io/#map=1/43/0
+# From http://data.okfn.org/data/datasets/geo-boundaries-world-110m
+geojson <- readLines("./map.geojson", warn = FALSE) %>%
+  paste(collapse = "\n") %>%
+  fromJSON(simplifyVector = FALSE)
+
+# Default styles for all features
+geojson$style = list(
+  weight = 1,
+  color = "#555555",
+  opacity = 1,
+  fillOpacity = 0.8
+)
+
+# Gather GDP estimate from all countries
+patient <- sapply(geojson$features, function(feat) {
+  feat$properties$patient
+})
+
+risk_rupture <- sapply(geojson$features, function(feat) {
+  feat$properties$risk_rupture
+})
+
+patient <- as.numeric(patient)
+risk_rupture <- as.numeric(risk_rupture)
+# Color by per-capita GDP using quantiles
+bins_p <- c(0, 1, 15)
+pal_p <- colorBin("YlGnBu", domain = patient, bins = bins_p)
+
+bins_r <- c(0, 1, 2,3,4,5)
+pal_r <- colorBin("YlGnBu", domain = risk_rupture, bins = bins_r)
+
+# Add a properties$style list to each feature
+geojson$features <- lapply(geojson$features, function(feat) {
+  feat$properties$style <- list(
+    fillColor = pal_p(
+      feat$properties$patient)
+  )
+  feat
+})
+
+geojson$features <- lapply(geojson$features, function(feat) {
+  feat$properties$style <- list(
+    fillColor = pal_r(
+      feat$properties$risk_rupture)
+  )
+  feat
+})
+
+# Add the now-styled GeoJSON object to the map
+leaflet() %>%
+  # Base groups
+  addTiles(group = "") %>%
+  setView(lng = 2, lat =9, zoom = 6.5) %>%
+  # Overlay groups
+  addGeoJSON(geojson,
+              fill = pal, weight = 2, color = pal, group = "patient") %>%
+  addLegend(pal = pal_p(), values = geojson$patient, opacity = 0.7, title = "Nombre de patients",
+  position = "bottomright")%>%
+  addGeoJSON(geojson,
+              fill = pal, weight = 2, color = pal, group = "risk") %>%
+  addLegend(pal = pal_r(), values = geojson$risk_rupture, opacity = 0.7, title = "risk",
+  position = "bottomleft")%>%
+  # Layers control
+  addLayersControl(
+    overlayGroups = c("patient","risk"),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+
+
+
+```
+
+
+## carte Choropleth + pharmacy
+```{r}
+leaflet(data1) %>%
+  # Base groups
+  addTiles(group = "") %>%
+  # Overlay groups 
+  #(pharmacy)
+  addMarkers(lat= ~lat, lng = ~lon,popup=data1$Company,
+             clusterOptions = markerClusterOptions, group = "Covid-19 Vaccine manufacturers") %>%
+  #(choropleth)
+  addGeoJSON(geojson,
+              fill = pal, weight = 2, color = pal, group = "top 1000") %>%
+  addLegend(pal = pal, values = geojson$ncompany, opacity = 0.7, title = "Number of company",
+  position = "bottomright")%>%
+  # Layers control
+  addLayersControl(
+    overlayGroups = c("top 1000","Covid-19 Vaccine manufacturers"),
+    options = layersControlOptions(collapsed = FALSE)
+  )
+
+```
+

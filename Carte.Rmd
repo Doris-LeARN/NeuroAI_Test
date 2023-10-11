@@ -1,0 +1,42 @@
+---
+title: "Carte"
+author: "Doris"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+# Installer le package httr si nécessaire
+
+install.packages("leaflet")
+
+```
+
+```{r}
+
+# Charger les bibliothèques
+library(leaflet)
+library(geojsonio)
+
+# Chemin vers le fichier GeoJSON
+chemin_geojson <- "./benin-detailed-boundary_863.geojson"
+
+# Charger le fichier GeoJSON
+donnees_geojson <- geojson_read(chemin_geojson)
+
+# Créer la carte Leaflet
+ma_carte <- leaflet() %>%
+  setView(lng = 2, lat =9, zoom = 6.5) %>%
+  addTiles() %>%
+  addGeoJSON(data = donnees_geojson)
+
+# Afficher la carte
+ma_carte
+
+
+```
+

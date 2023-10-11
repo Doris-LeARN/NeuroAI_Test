@@ -1,0 +1,3541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Benin</name>
+	<gx:CascadingStyle kml:id="__managed_style_293F3294862B3CFB1220">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>3</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1581B77BE42B3CFB1220">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=fbc02d&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>2</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+				<gx:displayMode>card</gx:displayMode>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_04661C4DB12B3CFB1220">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1581B77BE42B3CFB1220</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_293F3294862B3CFB1220</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0E8EF675C42B3CFB11EA">
+		<name>Bénin</name>
+		<gx:mid>/m/0164v</gx:mid>
+		<gx:fid>0x1023542b047a5695:0xecb277f8cb622ef5</gx:fid>
+		<LookAt>
+			<longitude>2.30937765</longitude>
+			<latitude>9.307355599999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1468221.803867207</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.315834,9.307689999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09A8C3DDC52B3D007985">
+		<name>Pharmacie La Beninoise</name>
+		<gx:mid>/g/1tfsw61h</gx:mid>
+		<gx:fid>0x1023552eecde8f19:0x3a2be3fb1332449f</gx:fid>
+		<LookAt>
+			<longitude>2.391236199999999</longitude>
+			<latitude>6.3702928</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.241561029379</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3912362,6.370292799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0816E2101B2B3D00C284">
+		<name>Pharmacie Okpe-oluwa</name>
+		<gx:mid>/g/11c1sz7hl1</gx:mid>
+		<gx:fid>0x102355c555555555:0x8dd460f3d83212d2</gx:fid>
+		<LookAt>
+			<longitude>2.391236199999999</longitude>
+			<latitude>6.3702928</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.241561029379</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3912362,6.370292799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0017E813FF2B3D01017C">
+		<name>Pharmacie Camp Guezo</name>
+		<gx:mid>/g/11h0byy7dl</gx:mid>
+		<gx:fid>0x102355daca116bb1:0xfe106c7865532bbd</gx:fid>
+		<LookAt>
+			<longitude>2.4182102</longitude>
+			<latitude>6.356145300000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.273898394107</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4182102,6.3561453,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D628A605E2B3D0167E1">
+		<name>Nouvelle Pharmacie Houéyiho</name>
+		<gx:mid>/g/11gfgcdnqs</gx:mid>
+		<gx:fid>0x102355cf9c429835:0x88d441ea7f01c1b1</gx:fid>
+		<LookAt>
+			<longitude>2.3933854</longitude>
+			<latitude>6.3694012</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.243601094612</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3933841,6.369409099999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08496BE86A2B3D019C29">
+		<name>Pharmacie Akossombo</name>
+		<gx:mid>/g/11cs68csyk</gx:mid>
+		<gx:fid>0x102355dcdf7d5df7:0xd935a55a4a436eea</gx:fid>
+		<LookAt>
+			<longitude>2.3901899</longitude>
+			<latitude>6.378272</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.223291237636</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.39019,6.378274699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0421F761CD2B3D021340">
+		<name>Pharmacie Adechina</name>
+		<gx:mid>/g/11c1vp2q9s</gx:mid>
+		<gx:fid>0x102355a9ddfa41b7:0xbf04e31149d491d2</gx:fid>
+		<LookAt>
+			<longitude>2.420163</longitude>
+			<latitude>6.3671877</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.248664566136</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.420163,6.367187700000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BB84E606E2B3D0259D3">
+		<name>Pharmacie Alafia</name>
+		<gx:mid>/g/11g9jj036d</gx:mid>
+		<gx:fid>0x102355af156a696b:0xfdd06bbf33c6e489</gx:fid>
+		<LookAt>
+			<longitude>2.4153969</longitude>
+			<latitude>6.369190199999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.244083841091</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4153961,6.3691909,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BA73915AE2B3D02D598">
+		<name>Pharmacie Vêdoko</name>
+		<gx:mid>/g/11f8fyynsm</gx:mid>
+		<gx:fid>0x10235508642f299b:0xd660d8c159af4dc4</gx:fid>
+		<LookAt>
+			<longitude>2.391320299999999</longitude>
+			<latitude>6.3820465</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.214640937422</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3912988,6.382036599999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="081F5645212B3D0301A7">
+		<name>Pharmacie DES 4 THERAPIES</name>
+		<gx:mid>/g/11c2mkbylx</gx:mid>
+		<gx:fid>0x102355102c9fcec5:0xf33fa1ceea187f4b</gx:fid>
+		<LookAt>
+			<longitude>2.4303788</longitude>
+			<latitude>6.3694161</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.243567004331</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4303788,6.3694161,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F36DE7E592B3D0338AB">
+		<name>Nouvelle Pharmacie AGONTIKON ADJIBADE</name>
+		<gx:mid>/g/11hbqsjpl0</gx:mid>
+		<gx:fid>0x102355b93b0f7cd9:0xb97ad6f2a5b8d222</gx:fid>
+		<LookAt>
+			<longitude>2.4043295</longitude>
+			<latitude>6.3746322</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.231628021966</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4043295,6.3746322,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D7CFCC2FD2B3D039041">
+		<name>Pharmacie Fidjrossè</name>
+		<gx:mid>/g/11ghnfvq3b</gx:mid>
+		<gx:fid>0x10235590f7737405:0x8495be6fe4fa3d0d</gx:fid>
+		<LookAt>
+			<longitude>2.3847017</longitude>
+			<latitude>6.3639682</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.256026183374</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3846274,6.3640047,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0191809A7F2B3D03C6ED">
+		<name>Pharmacie De La Paix</name>
+		<gx:mid>/g/11dxkx_9g4</gx:mid>
+		<gx:fid>0x102355b17da4fb43:0x6df7379956f55b5</gx:fid>
+		<LookAt>
+			<longitude>2.4078185</longitude>
+			<latitude>6.3655585</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.252390310768</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4078381,6.3655347,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0814F83B9D2B3D0415C8">
+		<name>Pharmacie Les Pylônes</name>
+		<gx:mid>/g/11b7hnz920</gx:mid>
+		<gx:fid>0x10235672b4fd36eb:0xb075e1323a929837</gx:fid>
+		<LookAt>
+			<longitude>2.3725641</longitude>
+			<latitude>6.380887</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.217298790016</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3725349,6.380884899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06ACB70EC72B3D044EDD">
+		<name>Pharmacie du rond point</name>
+		<gx:mid>/g/11c2y7xg4w</gx:mid>
+		<gx:fid>0x102355ac59f78479:0xd983325f94709fed</gx:fid>
+		<LookAt>
+			<longitude>2.413723</longitude>
+			<latitude>6.362628899999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.259087499522</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4136739,6.362703,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D71B2B09B2B3D04819A">
+		<name>Pharmacie de l&apos;Etoile</name>
+		<gx:mid>/g/11fn2nx8ml</gx:mid>
+		<gx:fid>0x102355728f64eefb:0x11cb02a74662444b</gx:fid>
+		<LookAt>
+			<longitude>2.3824454</longitude>
+			<latitude>6.377831100000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.224301349168</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3824391,6.3777596,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0990CEC98C2B3D04B3D9">
+		<name>Pharmacie de l&apos;Etoile</name>
+		<gx:mid>/g/11fn2nx8ml</gx:mid>
+		<gx:fid>0x102355728f64eefb:0x11cb02a74662444b</gx:fid>
+		<LookAt>
+			<longitude>2.3824454</longitude>
+			<latitude>6.377831100000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.224301349168</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3824391,6.3777596,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C5F24952B2B3D04EF09">
+		<name>Pharmacie Les Cocotiers</name>
+		<gx:mid>/g/11bzrnzr2_</gx:mid>
+		<gx:fid>0x102354367b5fd98b:0x9f0006e656fdeb1c</gx:fid>
+		<LookAt>
+			<longitude>2.3989636</longitude>
+			<latitude>6.3537634</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.279335750714</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.39896,6.353722299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03784E14D02B3D053601">
+		<name>Pharmacie Cristal Santé</name>
+		<gx:mid>/g/11fl0qmnjg</gx:mid>
+		<gx:fid>0x1023578d41939793:0x77265684b14248b6</gx:fid>
+		<LookAt>
+			<longitude>2.3653352</longitude>
+			<latitude>6.367934</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.24695756978</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3653352,6.367934,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04D71444AB2B3D056C7B">
+		<name>Pharmacie la Madone</name>
+		<gx:mid>/g/1tp8fjb1</gx:mid>
+		<gx:fid>0x102356886866d801:0xa71847295442ee32</gx:fid>
+		<LookAt>
+			<longitude>2.3707436</longitude>
+			<latitude>6.3578863</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.269922791468</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3707441,6.3578815,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="004A2EF22C2B3D059DF8">
+		<name>Nouvelle Pharmacie Akogbato</name>
+		<gx:mid>/g/11f5pwj8zz</gx:mid>
+		<gx:fid>0x1023574118f4ed07:0xdd1b401e301ded69</gx:fid>
+		<LookAt>
+			<longitude>2.3581165</longitude>
+			<latitude>6.3581265</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.269374205853</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3581144,6.3581688,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02B1DB39572B3D05D85B">
+		<name>Pharmacie JONQUET</name>
+		<gx:mid>/g/11g9qcmv02</gx:mid>
+		<gx:fid>0x102354e2b970da45:0xd19f14d343c1bf14</gx:fid>
+		<LookAt>
+			<longitude>2.4315482</longitude>
+			<latitude>6.3584261</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.268689929498</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4315482,6.3584261,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A1F8FA1292B3D06420C">
+		<name>Pharmacie Okpè Oluwa</name>
+		<gx:mid>/g/11gfkhtj9m</gx:mid>
+		<gx:fid>0x102355a4f0001241:0x6ec60108fce85136</gx:fid>
+		<LookAt>
+			<longitude>2.4128472</longitude>
+			<latitude>6.373518900000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.234177037357</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4127814,6.373469999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="040F9A2DA72B3D0671B0">
+		<name>PHARMACIE DON DE DIEU</name>
+		<gx:mid>/g/11gxw0l4_n</gx:mid>
+		<gx:fid>0x1023574a660a0521:0x516a7f2be990b1c2</gx:fid>
+		<LookAt>
+			<longitude>2.3954184</longitude>
+			<latitude>6.377050700000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.2260890926</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3954204,6.377085,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F795473032B3D069C76">
+		<name>Pharmacie Marina</name>
+		<gx:mid>/g/11g9m9st6v</gx:mid>
+		<gx:fid>0x102355a61a1a2017:0x6aed4db348ec790c</gx:fid>
+		<LookAt>
+			<longitude>2.4165856</longitude>
+			<latitude>6.3706066</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.240842957787</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4165547,6.3706437,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="077B0136D02B3D06DCD7">
+		<name>Pharmacie Ste Philomène</name>
+		<gx:mid>/g/1hhmmy32c</gx:mid>
+		<gx:fid>0x102355b5e6c602a7:0xb38ec32dfdd63b4c</gx:fid>
+		<LookAt>
+			<longitude>2.4021607</longitude>
+			<latitude>6.364569700000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.254651091479</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4021619,6.3645705,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E989D4FCF2B3D07109B">
+		<name>Pharmacie Gbegamey</name>
+		<gx:mid>/g/11ghp27lpy</gx:mid>
+		<gx:fid>0x1023555fc1a88cef:0xd8643d341dbcf54f</gx:fid>
+		<LookAt>
+			<longitude>2.4084339</longitude>
+			<latitude>6.363449699999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.257211424995</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4084183,6.3634691,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03C269B2052B3D075261">
+		<name>PHARMACIE SAINTE FOI</name>
+		<gx:mid>/g/11g1q4gf5g</gx:mid>
+		<gx:fid>0x102355a9edb107db:0x1f656e9ce8ca5cfa</gx:fid>
+		<LookAt>
+			<longitude>2.3986432</longitude>
+			<latitude>6.3729171</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.235554736523</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3986432,6.3729171,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="015CE2A53A2B3D07B894">
+		<name>Pharmacie Le Jourdain</name>
+		<gx:mid>/g/1tcy141t</gx:mid>
+		<gx:fid>0x1024a82a7febad37:0x8d89747ab18a50d2</gx:fid>
+		<LookAt>
+			<longitude>2.3393665</longitude>
+			<latitude>6.402506000000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.167663948782</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3393178,6.402537499999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="055E78E2182B3D07E8B4">
+		<name>Pharmacie Espace Santé</name>
+		<gx:mid>/g/11fjtvzb76</gx:mid>
+		<gx:fid>0x102357dba443e0fb:0xfda35e4887126d6c</gx:fid>
+		<LookAt>
+			<longitude>2.3349784</longitude>
+			<latitude>6.383385299999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.211571489512</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3349784,6.3833853,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A1E25CE542B3D08122A">
+		<name>Pharmacie de la Haie -Vive</name>
+		<gx:mid>/g/1tf83y4h</gx:mid>
+		<gx:fid>0x102354350a79da7f:0x3c94c50bc209acd</gx:fid>
+		<LookAt>
+			<longitude>2.3999121</longitude>
+			<latitude>6.3569143</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.272142503082</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3999115,6.356898699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05823F0F332B3D084F92">
+		<name>Pharmacie Godomey PK 14</name>
+		<gx:mid>/g/11c6sr60vd</gx:mid>
+		<gx:fid>0x102357c23c2df91d:0x52ec8262aa969a66</gx:fid>
+		<LookAt>
+			<longitude>2.3255304</longitude>
+			<latitude>6.386742999999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.203870525047</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3255579,6.386813200000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="054F964BD92B3D08F9DE">
+		<name>Pharmacie Sacré Coeur</name>
+		<gx:mid>/g/11fzfdq49h</gx:mid>
+		<gx:fid>0x1023553b98e84f35:0xec36e608c388af1e</gx:fid>
+		<LookAt>
+			<longitude>2.4466779</longitude>
+			<latitude>6.3740169</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.233036869558</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4466744,6.374016999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04D3D4DF1A2B3D092796">
+		<name>Pharmacie Zongo</name>
+		<gx:mid>/g/11fx8d1lfw</gx:mid>
+		<gx:fid>0x102354fe003ce561:0x13c05b14de2351d4</gx:fid>
+		<LookAt>
+			<longitude>2.4257157</longitude>
+			<latitude>6.3594453</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.266361871087</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4257314,6.359457099999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="047865D3D82B3D095984">
+		<name>Pharmacie NIMA</name>
+		<gx:mid>/g/11h3cbdh4z</gx:mid>
+		<gx:fid>0x102355e39454f445:0x5cdebf56928f2a13</gx:fid>
+		<LookAt>
+			<longitude>2.4217497</longitude>
+			<latitude>6.3575391</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.27071571481</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4218119,6.357518299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0602FC55DF2B3D098F0B">
+		<name>Pharmacie Agbodjèdo</name>
+		<gx:mid>/g/11fxzlm_q8</gx:mid>
+		<gx:fid>0x1023555b1542fecf:0x603ec3e9f64dccec</gx:fid>
+		<LookAt>
+			<longitude>2.4471804</longitude>
+			<latitude>6.391624500000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.192667514888</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4471804,6.3916245,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E2B072A9D2B3D09C680">
+		<name>Pharmacie Zogbo</name>
+		<gx:mid>/g/1wrb5lrm</gx:mid>
+		<gx:fid>0x102355e4c729726d:0x6ed4585fc5040bde</gx:fid>
+		<LookAt>
+			<longitude>2.3882228</longitude>
+			<latitude>6.390168399999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.196010144435</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3882108,6.3901857,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06C93363B62B3D0A1941">
+		<name>Pharmacie Océane</name>
+		<gx:mid>/g/11cfb4x0f</gx:mid>
+		<gx:fid>0x1023568bb31a14d1:0x562e278c0ad5e7c4</gx:fid>
+		<LookAt>
+			<longitude>2.3649561</longitude>
+			<latitude>6.357040599999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.271854096646</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3649559,6.3570405,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BCB340C742B3D0ADFA3">
+		<name>Pharmacie GANHI</name>
+		<gx:mid>/g/11f6dljcyy</gx:mid>
+		<gx:fid>0x102355e52e78b7a3:0x8d7e1dacf694387d</gx:fid>
+		<LookAt>
+			<longitude>2.4366987</longitude>
+			<latitude>6.355032399999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.27643915328</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4366813,6.3550537,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05127B441F2B3D0B1BC7">
+		<name>Pharmacie le rocher cotonou</name>
+		<gx:mid>/g/11jh2hdpqb</gx:mid>
+		<gx:fid>0x1023554108f1197f:0x1a065a4afb1378af</gx:fid>
+		<LookAt>
+			<longitude>2.4298894</longitude>
+			<latitude>6.3720954</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.237435643526</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4299377,6.3720358,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00F30A9A612B3D0B6078">
+		<name>Pharmacie Bolarin</name>
+		<gx:mid>/g/1xpt101t</gx:mid>
+		<gx:fid>0x103caadc4895137f:0xb9364901756a10e8</gx:fid>
+		<LookAt>
+			<longitude>2.4771675</longitude>
+			<latitude>6.367864600000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.247116315326</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4771675,6.367864599999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06A72242BE2B3D0BCC6A">
+		<name>Pharmacie Midombo</name>
+		<gx:mid>/g/1th1x1sm</gx:mid>
+		<gx:fid>0x1023553e37392439:0xd9452f6dc3653d85</gx:fid>
+		<LookAt>
+			<longitude>2.4417941</longitude>
+			<latitude>6.37737</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.22535766515</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4417808,6.377370199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E54194FFF2B3D0BF751">
+		<name>Pharmacie Ciné Concorde</name>
+		<gx:mid>/g/11gj4cgqc_</gx:mid>
+		<gx:fid>0x102355dbc800c683:0x5df0a08d335006a3</gx:fid>
+		<LookAt>
+			<longitude>2.4519853</longitude>
+			<latitude>6.3721771</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.237248639461</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4519859,6.3721625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="047E7C22932B3D0C2EDF">
+		<name>Pharmacie st PAUL</name>
+		<gx:mid>/g/11c2mwgj80</gx:mid>
+		<gx:fid>0x102357b558030967:0x78e57b34d04bbe97</gx:fid>
+		<LookAt>
+			<longitude>2.3411241</longitude>
+			<latitude>6.3811696</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.21665104712</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3411118,6.381175199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DC9241DD32B3D0C596B">
+		<name>Pharmacie Salem de Agla</name>
+		<gx:mid>/g/11fzfdpft4</gx:mid>
+		<gx:fid>0x1023565d414123ad:0xbf50814de97b3b2c</gx:fid>
+		<LookAt>
+			<longitude>2.3611178</longitude>
+			<latitude>6.3696484</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.243035506019</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3610741,6.3696759,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0960AA31582B3D0C999F">
+		<name>Pharmacie Godomey Fignonhou</name>
+		<gx:mid>/g/11ddwwybcs</gx:mid>
+		<gx:fid>0x102357b33e73906d:0x6fad530a688cd574</gx:fid>
+		<LookAt>
+			<longitude>2.340694499999999</longitude>
+			<latitude>6.3741922</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.23263550028</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3406945,6.3741922,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05CA1F5E092B3D0CC422">
+		<name>Pharmacie Adetona Lomnava</name>
+		<gx:mid>/g/11f4ymjrt7</gx:mid>
+		<gx:fid>0x10235539a35a4f2f:0xbe139deeb352186a</gx:fid>
+		<LookAt>
+			<longitude>2.4486341</longitude>
+			<latitude>6.376992599999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.226222179621</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4486322,6.3770246,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="006B12AB782B3D0D1FDE">
+		<name>Pharmacie Kindonou</name>
+		<gx:mid>/g/1tdnh7zj</gx:mid>
+		<gx:fid>0x10235619deb99b2f:0x742484f0a05b6639</gx:fid>
+		<LookAt>
+			<longitude>2.3648845</longitude>
+			<latitude>6.391953399999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.191912385883</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3648568,6.3919535,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D629169412B3D0D4CB7">
+		<name>Pharmacie Amen</name>
+		<gx:mid>/g/11g9jgv57t</gx:mid>
+		<gx:fid>0x102355a9491dbe4f:0xde7abb815afe0910</gx:fid>
+		<LookAt>
+			<longitude>2.4166073</longitude>
+			<latitude>6.365947099999998</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.251501724805</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4165599,6.365910100000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06C5A225BF2B3D0D8700">
+		<name>Pharmacie Du Port</name>
+		<gx:mid>/g/11crzw9gkx</gx:mid>
+		<gx:fid>0x102354e51eeed6ad:0xe85226e32cf130ad</gx:fid>
+		<LookAt>
+			<longitude>2.432202</longitude>
+			<latitude>6.351234600000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.285106232514</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.432202,6.3512346,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="085A9E0AF02B3D0DC39B">
+		<name>Pharmacie Ste Famille</name>
+		<gx:mid>/g/1v19zw7l</gx:mid>
+		<gx:fid>0x1023560ee50f7311:0x7f391c57ef6cb699</gx:fid>
+		<LookAt>
+			<longitude>2.3746409</longitude>
+			<latitude>6.3883401</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.200206126808</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3746409,6.3883401,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B795998F92B3D0E15C3">
+		<name>Pharmacie Saintete à l&apos;Eternel</name>
+		<gx:mid>/g/11dxkbcj1y</gx:mid>
+		<gx:fid>0x10235622bc1eb6a1:0xb4c54c1e5653dbd6</gx:fid>
+		<LookAt>
+			<longitude>2.360713099999999</longitude>
+			<latitude>6.392767999999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.190041961024</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3607279,6.392767099999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01F15E068F2B3D0E45AE">
+		<name>Pharmacie Gbedjromede</name>
+		<gx:mid>/g/1trrxw13</gx:mid>
+		<gx:fid>0x1023559edbf6c1a9:0x7577784535425561</gx:fid>
+		<LookAt>
+			<longitude>2.4169097</longitude>
+			<latitude>6.383197</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.212003240915</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4169097,6.383197,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="054E333F6B2B3D0E6E81">
+		<name>PHARMACIE PRINCIPALE Dr Gisele GRIMAUD</name>
+		<gx:mid>/g/11h35pdhz2</gx:mid>
+		<gx:fid>0x1023557e2ddd94b1:0xfc5c580359f6cb1f</gx:fid>
+		<LookAt>
+			<longitude>2.4368499</longitude>
+			<latitude>6.3620092</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.2605037674</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4368479,6.3620075,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="057E9F38CF2B3D0E95C2">
+		<name>Pharmacie de l&apos;espérance</name>
+		<gx:mid>/g/11fm4ztvn1</gx:mid>
+		<gx:fid>0x102355cd747289c5:0xe10efdadb8780755</gx:fid>
+		<LookAt>
+			<longitude>2.4133595</longitude>
+			<latitude>6.3828217</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.212863725232</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4133316,6.3828583,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="003113E5212B3D0EC11E">
+		<name>Pharmacie L&apos;Immaculée</name>
+		<gx:mid>/g/11by_fgk2_</gx:mid>
+		<gx:fid>0x1023556a760934d1:0x71fd1c4b5881a658</gx:fid>
+		<LookAt>
+			<longitude>2.4406792</longitude>
+			<latitude>6.3843134</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.209443272413</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4406786,6.384276799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A29778EB32B3D0F2F14">
+		<name>Pharmacie Saint Jean</name>
+		<gx:mid>/g/11g6lvzyv7</gx:mid>
+		<gx:fid>0x1023550385555555:0x4cd3f47e13dac5ed</gx:fid>
+		<LookAt>
+			<longitude>2.4220396</longitude>
+			<latitude>6.360666</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.263573058253</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4220458,6.360658399999998,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D012BF3342B3D0F8CD3">
+		<name>Nouvelle Pharmacie de I&apos;Habitat</name>
+		<gx:mid>/g/1vmvygrm</gx:mid>
+		<gx:fid>0x102355241137c201:0xe67fb28781966c98</gx:fid>
+		<LookAt>
+			<longitude>2.4466008</longitude>
+			<latitude>6.3656283</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.252230707685</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4466421,6.3656285,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B198B7A202B3D101037">
+		<name>Pharmacie Saint Martin</name>
+		<gx:mid>/g/11hytfmm0n</gx:mid>
+		<gx:fid>0x103cab4b2defb849:0x85ed65903c7c79b1</gx:fid>
+		<LookAt>
+			<longitude>2.4641987</longitude>
+			<latitude>6.3730427</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.235267211441</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4641981,6.3730427,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08AFAC58FA2B3D104520">
+		<name>Pharmacie Sainte Euphrasie</name>
+		<gx:mid>/g/11gkxc9h26</gx:mid>
+		<gx:fid>0x102355e3ecb589c3:0xe7ab62781ec2b6af</gx:fid>
+		<LookAt>
+			<longitude>2.4135922</longitude>
+			<latitude>6.388044300000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.200884881212</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4135771,6.388032399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03B9CB88852B3D106D6F">
+		<name>Pharmacie Segbeya</name>
+		<gx:mid>/g/1tgfs49m</gx:mid>
+		<gx:fid>0x102355473cd029a7:0x30762b93a7e1e86f</gx:fid>
+		<LookAt>
+			<longitude>2.4467193</longitude>
+			<latitude>6.3811757</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.216637065094</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4467193,6.381175699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B381432572B3D10B7FF">
+		<name>Pharmacie de l&apos;Amitié</name>
+		<gx:mid>/g/11g8p_0dzg</gx:mid>
+		<gx:fid>0x1023560adb9e4e4b:0x208214a717820d58</gx:fid>
+		<LookAt>
+			<longitude>2.3793498</longitude>
+			<latitude>6.3819085</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.214957291725</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3793498,6.3819085,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CF07303622B3D10D847">
+		<name>Pharmacie Jericho</name>
+		<gx:mid>/g/1tfthbln</gx:mid>
+		<gx:fid>0x1023550b7061fc33:0x63bfb92192703e39</gx:fid>
+		<LookAt>
+			<longitude>2.4251561</longitude>
+			<latitude>6.3785849</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.222574334825</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4251561,6.378584899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC6E9A3322B3D1100A2">
+		<name>Pharmacie Les Archanges</name>
+		<gx:mid>/g/11c20bk_3s</gx:mid>
+		<gx:fid>0x1023564f3f79f041:0x26060a034020bd39</gx:fid>
+		<LookAt>
+			<longitude>2.3507349</longitude>
+			<latitude>6.374909000000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.230994191124</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3507349,6.374909,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07295A4BC22B3D112A1A">
+		<name>Pharmacie Houenoussou Gare Ocbin</name>
+		<gx:mid>/g/1td8w7p5</gx:mid>
+		<gx:fid>0x102357b50370f129:0x5f5af586a40250b9</gx:fid>
+		<LookAt>
+			<longitude>2.3399026</longitude>
+			<latitude>6.378772800000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.222143809768</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3398755,6.378701,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0713B8C4722B3D115066">
+		<name>Pharmacie Port Royal</name>
+		<gx:mid>/g/11c30qflw6</gx:mid>
+		<gx:fid>0x10235531e5536c57:0x98e863a88947d6d3</gx:fid>
+		<LookAt>
+			<longitude>2.4548195</longitude>
+			<latitude>6.370573599999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.240918473662</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4548198,6.3705721,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0871FB51222B3D1192BA">
+		<name>Pharmacie Yenawa</name>
+		<gx:mid>/g/11fhv7jfxc</gx:mid>
+		<gx:fid>0x10235511ceac61b5:0xc3fd58d75d9a9d02</gx:fid>
+		<LookAt>
+			<longitude>2.4566718</longitude>
+			<latitude>6.389691</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.197105901319</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4566795,6.3896907,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01F4166F982B3D11D382">
+		<name>MMSE</name>
+		<gx:mid>/g/11kl19247_</gx:mid>
+		<gx:fid>0x102355c6b280e743:0xebcc8b293da8be85</gx:fid>
+		<LookAt>
+			<longitude>2.3932727</longitude>
+			<latitude>6.366603599999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.250000427205</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3932727,6.366603599999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="032EDFB69A2B3D11FE9D">
+		<name>Pharmacie Ste Madeleine</name>
+		<gx:mid>/g/1tf846y4</gx:mid>
+		<gx:fid>0x102355fd39ff2b0f:0x1a049f3830d70358</gx:fid>
+		<LookAt>
+			<longitude>2.3828306</longitude>
+			<latitude>6.3922201</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.191300034941</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3828188,6.3922067,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B966174912B3D12260A">
+		<name>Pharmacie Dekoungbe</name>
+		<gx:mid>/g/1td0k416</gx:mid>
+		<gx:fid>0x102357c7e55ed03b:0x400a4728037cebc3</gx:fid>
+		<LookAt>
+			<longitude>2.3314264</longitude>
+			<latitude>6.381927</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.214914882303</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.331472,6.381895399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ED6C78DD12B3D12575C">
+		<name>Melwash</name>
+		<gx:mid>/g/11h5rgcx6v</gx:mid>
+		<gx:fid>0x103cabe2f747aedd:0x9f579c9ef38a4159</gx:fid>
+		<LookAt>
+			<longitude>2.478559299999999</longitude>
+			<latitude>6.370709600000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.240607254227</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4785593,6.370709599999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C140B0F392B3D12DAFB">
+		<name>Pharmacie &quot;Reine Des Grâces&quot;</name>
+		<gx:mid>/g/11fjmtqn01</gx:mid>
+		<gx:fid>0x1023554ddaf0a57b:0xc5505ba56c8d0cf1</gx:fid>
+		<LookAt>
+			<longitude>2.4534947</longitude>
+			<latitude>6.3891552</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.198335604521</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4534947,6.389155199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F2B07645A2B3D130785">
+		<name>Pharmacie VIE NOUVELLE</name>
+		<gx:mid>/g/11fmwpyzfd</gx:mid>
+		<gx:fid>0x10235531ef97f225:0x3538a2f18aaa023b</gx:fid>
+		<LookAt>
+			<longitude>2.4017752</longitude>
+			<latitude>6.3811515</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.216692534692</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4018049,6.381174399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="001CBD0F452B3D133312">
+		<name>Pharmacie Aïdjèdo</name>
+		<gx:mid>/g/11g8kqn72b</gx:mid>
+		<gx:fid>0x1023557488f63073:0x9f3e97cb5f5ac6eb</gx:fid>
+		<LookAt>
+			<longitude>2.4251037</longitude>
+			<latitude>6.383268999999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.211838154246</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4251067,6.3832711,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="078CF180062B3D139509">
+		<name>Pharmacie Saint-Etienne</name>
+		<gx:mid>/g/11c1tjl82t</gx:mid>
+		<gx:fid>0x1023566adb81dd91:0xea715dc2562f8548</gx:fid>
+		<LookAt>
+			<longitude>2.3636673</longitude>
+			<latitude>6.3800702</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.219170803917</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3636684,6.38009,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0084D1DEFD2B3D1475DA">
+		<name>Pharmacie Saint Louis</name>
+		<gx:mid>/g/11j0rwqp52</gx:mid>
+		<gx:fid>0x102355518b480503:0xfe1b9199626dca68</gx:fid>
+		<LookAt>
+			<longitude>2.4072038</longitude>
+			<latitude>6.353410999999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.280140030922</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4072038,6.353410999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CAC51512D2B3D14AF63">
+		<name>Pharmacie Val des Grâces</name>
+		<gx:mid>/g/11c60nv_lr</gx:mid>
+		<gx:fid>0x103caaf0b1722647:0x14cea713e289116f</gx:fid>
+		<LookAt>
+			<longitude>2.4947493</longitude>
+			<latitude>6.3706833</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.240667439088</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4946885,6.3706764,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="040C75917A2B3D14DD5E">
+		<name>Pharmacie Bien Être</name>
+		<gx:mid>/g/11h4kgs89h</gx:mid>
+		<gx:fid>0x103cab553effdf79:0x4bebdd5998d19eeb</gx:fid>
+		<LookAt>
+			<longitude>2.4721371</longitude>
+			<latitude>6.381518</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.215852445892</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4721371,6.381517999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="009A7D8EF62B3D15157C">
+		<name>Pharmacie Bio</name>
+		<gx:mid>/g/11s7m0l2_m</gx:mid>
+		<gx:fid>0x10235576301d6db7:0xbb08e1343763d17c</gx:fid>
+		<LookAt>
+			<longitude>2.391236199999999</longitude>
+			<latitude>6.3702928</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.241561029379</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3912362,6.370292799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05DF9F75CC2B3D1548DC">
+		<name>Pharmacie Le Conseil</name>
+		<gx:mid>/g/11gwjxvhf_</gx:mid>
+		<gx:fid>0x102355eef03bf2c7:0x24aba6d9b8c8ba20</gx:fid>
+		<LookAt>
+			<longitude>2.4213623</longitude>
+			<latitude>6.370667699999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.240703137977</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4213967,6.370625,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="096EF5710D2B3D157851">
+		<name>Pharmacie Luli Luli</name>
+		<gx:mid>/g/11fs7zmp81</gx:mid>
+		<gx:fid>0x102357eb292f4fa9:0x11140e2cab9392f5</gx:fid>
+		<LookAt>
+			<longitude>2.356801899999999</longitude>
+			<latitude>6.3718226</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.238060041317</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3567709,6.371833000000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="009DBA96402B3D15E1D5">
+		<name>Pharmacie Tamaya</name>
+		<gx:mid>/g/1tl6mn22</gx:mid>
+		<gx:fid>0x102355efcc41fcdd:0xc9f04cfff66a2bd3</gx:fid>
+		<LookAt>
+			<longitude>2.3934973</longitude>
+			<latitude>6.3908129</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.194530720712</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3934973,6.390812899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0401453E2F2B3D16080C">
+		<name>Pharmacie St Joseph</name>
+		<gx:mid>/g/11fn7hq_0n</gx:mid>
+		<gx:fid>0x102355b95758a593:0x4d4dbc0d8844d81e</gx:fid>
+		<LookAt>
+			<longitude>2.434021</longitude>
+			<latitude>6.3651712</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.253275870499</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4339721,6.3652354,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="027FF7C2882B3D162BC9">
+		<name>Pharmacie La Prophétie</name>
+		<gx:mid>/g/11fm65vz46</gx:mid>
+		<gx:fid>0x10235541a83b5ac1:0xc106bf3a18632d8a</gx:fid>
+		<LookAt>
+			<longitude>2.437478</longitude>
+			<latitude>6.352864400000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.281387444851</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4374778,6.352872999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A6F83FCB32B3D167B25">
+		<name>Pharmacie Atinkanme</name>
+		<gx:mid>/g/11g6rjn7lf</gx:mid>
+		<gx:fid>0x1023551dc62ce37b:0x8e50bc1c7a24879d</gx:fid>
+		<LookAt>
+			<longitude>2.4343739</longitude>
+			<latitude>6.3616264</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.261378553457</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4343739,6.3616264,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03C8843FA92B3D16A3B4">
+		<name>Pharmacie le Nokoué</name>
+		<gx:mid>/g/1tzt2zrk</gx:mid>
+		<gx:fid>0x10235509347567b7:0xcdd7b5835a833ccc</gx:fid>
+		<LookAt>
+			<longitude>2.4248883</longitude>
+			<latitude>6.3738528</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.233412585228</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4248789,6.373865599999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="057D11ECBA2B3D16DAEB">
+		<name>Pharmacie Vogue</name>
+		<gx:mid>/g/11hdsc318m</gx:mid>
+		<gx:fid>0x102355d7029a77c9:0x1c1e45aa76ac5232</gx:fid>
+		<LookAt>
+			<longitude>2.4362335</longitude>
+			<latitude>6.359490199999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.266259301906</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4362337,6.3594903,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="094DF23D5F2B3D1708DF">
+		<name>Pharmacie La Destinée Senadé sarl</name>
+		<gx:mid>/g/1tf4b4p1</gx:mid>
+		<gx:fid>0x10235534486b9199:0x145bf7498811077a</gx:fid>
+		<LookAt>
+			<longitude>2.4567954</longitude>
+			<latitude>6.377238900000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.225657983171</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4567954,6.377246400000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="056CD2BFC72B3D177127">
+		<name>Pharmacie Ancien Pont</name>
+		<gx:mid>/g/11csq4mgvj</gx:mid>
+		<gx:fid>0x10235520bf414f5f:0xcf32adf120de9cd4</gx:fid>
+		<LookAt>
+			<longitude>2.4445946</longitude>
+			<latitude>6.3606749</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.263552723348</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4445946,6.360674899999998,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CB842B6982B3D179CFD">
+		<name>Pharmacie Palace plus</name>
+		<gx:mid>/g/11g6bkbg5x</gx:mid>
+		<gx:fid>0x102355ed91e1b69d:0x3ef5e29fc7e487ba</gx:fid>
+		<LookAt>
+			<longitude>2.3978225</longitude>
+			<latitude>6.390871100000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.194397117668</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3977711,6.390879699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="019623F85A2B3D17E703">
+		<name>Pharmacie Ayessi</name>
+		<gx:mid>/g/11f30pmhb4</gx:mid>
+		<gx:fid>0x10235636bcc5bc6b:0x2e75bed2c3798b51</gx:fid>
+		<LookAt>
+			<longitude>2.3475887</longitude>
+			<latitude>6.3852175</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.207369793997</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3475592,6.385184799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09C5203A9B2B3D181036">
+		<name>Pharmacie Renouveau</name>
+		<gx:mid>/g/11c6_fgyz8</gx:mid>
+		<gx:fid>0x102355e3c4faa3f1:0xc1ab0722d4bf4347</gx:fid>
+		<LookAt>
+			<longitude>2.3845722</longitude>
+			<latitude>6.3869089</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.203489925193</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.384538,6.3868748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A2DD5ECF22B3D183C07">
+		<name>Pharmacie MAHUENA</name>
+		<gx:mid>/g/11pk9ys6lh</gx:mid>
+		<gx:fid>0x102355df3dc03649:0xcc874dde3a2b0412</gx:fid>
+		<LookAt>
+			<longitude>2.4307522</longitude>
+			<latitude>6.360405</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.264169383882</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4307555,6.3604075,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DFF9947C12B3D1870A2">
+		<name>Pharmacie Hedomey</name>
+		<gx:mid>/g/11h5mbxvfq</gx:mid>
+		<gx:fid>0x10235793be45a515:0x442844a987dc93e2</gx:fid>
+		<LookAt>
+			<longitude>2.3201679</longitude>
+			<latitude>6.3719423</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.237786069456</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3201679,6.371942199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="077DDD97F12B3D18E9E8">
+		<name>Pharmacie Cadjehoun</name>
+		<gx:mid>/g/11g65gmpkr</gx:mid>
+		<gx:fid>0x102355cb15c56539:0x31fe17bf052a8cb5</gx:fid>
+		<LookAt>
+			<longitude>2.3976597</longitude>
+			<latitude>6.361047499999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.262701373807</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3976584,6.361046599999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E98F066002B3D1917E2">
+		<name>Pharmacie Fidjrossè Plage</name>
+		<gx:mid>/g/11c20868zg</gx:mid>
+		<gx:fid>0x102356f14f84f5a5:0x11f47cef889b6ebe</gx:fid>
+		<LookAt>
+			<longitude>2.3559246</longitude>
+			<latitude>6.3538872</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.279053192269</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3559253,6.353875999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F2022DD4B2B3D1951FA">
+		<name>Pharmacie Ayelawadje</name>
+		<gx:mid>/g/1tgfs49l</gx:mid>
+		<gx:fid>0x1023553aecb3b813:0xcc110f642d7b62a1</gx:fid>
+		<LookAt>
+			<longitude>2.4492753</longitude>
+			<latitude>6.3717386</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.23825229922</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4492753,6.3717386,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CD9E418DB2B3D197D88">
+		<name>Pharmacie l&apos;HARMONIE</name>
+		<gx:mid>/g/11cp5g170g</gx:mid>
+		<gx:fid>0x103caaf9bcf41a05:0x5183a95c6e78064c</gx:fid>
+		<LookAt>
+			<longitude>2.4964949</longitude>
+			<latitude>6.367952900000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.246914337626</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4964949,6.3679529,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0806EABA3F2B3D19BB1D">
+		<name>Nouvelle Pharmacie Fifadji</name>
+		<gx:mid>/g/11c6sqx9mj</gx:mid>
+		<gx:fid>0x10235594743f35c3:0x37b9686f2b1e6249</gx:fid>
+		<LookAt>
+			<longitude>2.4045666</longitude>
+			<latitude>6.386152099999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.205226059822</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4045631,6.386155899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="033ECD60D12B3D19EBE6">
+		<name>Pharmacie st Gabriel</name>
+		<gx:mid>/g/11dxjxfcyd</gx:mid>
+		<gx:fid>0x102355c0978719bf:0xd4560877d54f28a9</gx:fid>
+		<LookAt>
+			<longitude>2.4005232</longitude>
+			<latitude>6.3770583</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.226071683537</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4004914,6.377108199999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07E2C736C52B3D1A77C1">
+		<name>Pharmacie MOSQUÉE CENTRALE ZONGO</name>
+		<gx:mid>/g/11c5wyhbpr</gx:mid>
+		<gx:fid>0x102354fe76f452ab:0xdd7657ba02f4398d</gx:fid>
+		<LookAt>
+			<longitude>2.4256161</longitude>
+			<latitude>6.357715899999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.270311950464</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.425616,6.3577157,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04FE1506732B3D1AD9DE">
+		<name>Pharmacie HOUNTCHEDE KOWEGBO</name>
+		<gx:mid>/g/11j5yfbwwt</gx:mid>
+		<gx:fid>0x103cab706172ba8f:0x84006720d52e35e0</gx:fid>
+		<LookAt>
+			<longitude>2.463643</longitude>
+			<latitude>6.3821217</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.214468544391</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4636437,6.3821217,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05580130892B3D1B0683">
+		<name>Pharmacie Tanto</name>
+		<gx:mid>/g/11h4tbchtf</gx:mid>
+		<gx:fid>0x103cab03fe21c905:0x2ee191a5971ebef5</gx:fid>
+		<LookAt>
+			<longitude>2.4721796</longitude>
+			<latitude>6.3712886</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.239282209404</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4721129,6.371286899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C25B4656A2B3D1B48ED">
+		<name>Nouvelle Pharmacie Dantokpa</name>
+		<gx:mid>/g/11ll311625</gx:mid>
+		<gx:fid>0x102355111cd8f197:0x7ad56ecfebd0807b</gx:fid>
+		<LookAt>
+			<longitude>2.4335206</longitude>
+			<latitude>6.3712525</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.239364827958</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4335193,6.3712541,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="058CCA8A522B3D1B959E">
+		<name>Pharmacie St Raphael du Nouveau Pont</name>
+		<gx:mid>/g/1tdj6764</gx:mid>
+		<gx:fid>0x1023553d06276623:0xa2ed1a9f2502b149</gx:fid>
+		<LookAt>
+			<longitude>2.4426873</longitude>
+			<latitude>6.3720639</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.237507743601</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4426869,6.3720602,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C0CF41DCD2B3D1BED3C">
+		<name>Pharmacie agblangandan</name>
+		<gx:mid>/g/11m7f4gddf</gx:mid>
+		<gx:fid>0x103cab746e6879a1:0xe1753d18e35638f3</gx:fid>
+		<LookAt>
+			<longitude>2.4865157</longitude>
+			<latitude>6.375273499999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.230159498625</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4864768,6.375261,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0EF1FCE1C52B3D1C1BF2">
+		<name>Pharmacie Saint Adele</name>
+		<gx:mid>/g/1tf846y5</gx:mid>
+		<gx:fid>0x1023563b04e63989:0xc3380172456253a4</gx:fid>
+		<LookAt>
+			<longitude>2.3497032</longitude>
+			<latitude>6.3923194</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.191072032776</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3497002,6.392313400000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0B5FA1E6882B3D1C670B">
+		<name>Nouvelle pharmacie Menontin</name>
+		<gx:mid>/g/11c6wpkf5g</gx:mid>
+		<gx:fid>0x102356119ffa6359:0x9a0c3627cec2aebb</gx:fid>
+		<LookAt>
+			<longitude>2.3687631</longitude>
+			<latitude>6.387647500000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.201795345197</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3686855,6.3876666,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05EBEFDDD42B3D1C8B1F">
+		<name>Pharmacie l’eternite</name>
+		<gx:mid>/g/11j7gxsggn</gx:mid>
+		<gx:fid>0x1023558593fac99d:0x5fe4966817bf302b</gx:fid>
+		<LookAt>
+			<longitude>2.4111775</longitude>
+			<latitude>6.377844399999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.224270879592</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4111928,6.3778257,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C9F942ED32B3D1CAD3B">
+		<name>Pharmacie Suru-Léré</name>
+		<gx:mid>/g/11f1nkfkd3</gx:mid>
+		<gx:fid>0x103caacbdf571001:0x750c04ee82c1fad7</gx:fid>
+		<LookAt>
+			<longitude>2.465361</longitude>
+			<latitude>6.3768913</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.226454220033</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4653611,6.3768872,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0358DA3E4E2B3D1CD621">
+		<name>Pharmacie Oladjouan</name>
+		<gx:mid>/g/11g6sbn5tt</gx:mid>
+		<gx:fid>0x1023560c356ca753:0xb85d14c4bbff3bd4</gx:fid>
+		<LookAt>
+			<longitude>2.3740407</longitude>
+			<latitude>6.385052300000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.207748688279</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3740616,6.385038899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00D72340562B3D1D01DB">
+		<name>Pharmacie gracia minnontchou</name>
+		<gx:mid>/g/11fs00frcl</gx:mid>
+		<gx:fid>0x102355c77d377373:0x12f9f681e57660d8</gx:fid>
+		<LookAt>
+			<longitude>2.452114799999999</longitude>
+			<latitude>6.3922754</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.19117306136</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4520695,6.3922748,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0898530D7D2B3D1D65C0">
+		<name>Pharmacie Sos Santé</name>
+		<gx:mid>/g/11c1ny1c9m</gx:mid>
+		<gx:fid>0x1024a9a930ce2933:0x270fee1e0e32dc8f</gx:fid>
+		<LookAt>
+			<longitude>2.348417</longitude>
+			<latitude>6.440156</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.080825677949</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.348417,6.440156,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="001FBCD5402B3D1D8FB7">
+		<name>Pharmacie Sainte Cécile</name>
+		<gx:mid>/g/1tplsb85</gx:mid>
+		<gx:fid>0x102355059ec885c3:0x927c41738a8386b4</gx:fid>
+		<LookAt>
+			<longitude>2.4279005</longitude>
+			<latitude>6.369163299999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.244145384406</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4279005,6.369163299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D1D967FFB2B3D1DC569">
+		<name>Pharmacie St Urbain</name>
+		<gx:mid>/g/11c1nqlglt</gx:mid>
+		<gx:fid>0x103caac1c306356f:0x26e481fbc1aecabc</gx:fid>
+		<LookAt>
+			<longitude>2.479436</longitude>
+			<latitude>6.376728</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.226828271547</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4794374,6.3767277,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09827D74FD2B3D1DF5CB">
+		<name>Pharmacie du Marché St Michel</name>
+		<gx:mid>/g/11cspkqt_2</gx:mid>
+		<gx:fid>0x1023550f41411c15:0x7f5e952db0425120</gx:fid>
+		<LookAt>
+			<longitude>2.4255187</longitude>
+			<latitude>6.37051</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.24106401225</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.425519,6.370509699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0ECB024C6D2B3D1E587B">
+		<name>Pharmacie Forum Santé</name>
+		<gx:mid>/g/11bz0bmt_4</gx:mid>
+		<gx:fid>0x102355065f457a67:0xf4f24688c1fc0995</gx:fid>
+		<LookAt>
+			<longitude>2.4243005</longitude>
+			<latitude>6.3675808</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.247765461509</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4243146,6.3675635,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DD0A75DEB2B3D1E8046">
+		<name>Pharmacie Le President</name>
+		<gx:mid>/g/1tw_q7sp</gx:mid>
+		<gx:fid>0x102357e9306e9851:0x60adcb7b1181bbd</gx:fid>
+		<LookAt>
+			<longitude>2.3177548</longitude>
+			<latitude>6.3883912</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.20008886756</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3177557,6.388397599999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0BD3B295452B3D1EAAEA">
+		<name>pharmacie cristale dodji</name>
+		<gx:mid>/g/11c2jwp4tl</gx:mid>
+		<gx:fid>0x103b5a11e180457d:0x1624d58080008c31</gx:fid>
+		<LookAt>
+			<longitude>2.4307636</longitude>
+			<latitude>6.3691228</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.24423804207</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4307636,6.3691228,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0382A77BF42B3D1ECE62">
+		<name>Pharmacie Le Remede</name>
+		<gx:mid>/g/11c1p5tmtb</gx:mid>
+		<gx:fid>0x1023552e7dbcebb1:0x6c5c8e414b254c03</gx:fid>
+		<LookAt>
+			<longitude>2.4550237</longitude>
+			<latitude>6.367413699999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.248147662046</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4550412,6.3674278,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08950B8C3E2B3D1EF4AD">
+		<name>Pharmacie Les Maristes</name>
+		<gx:mid>/g/11rfffgckj</gx:mid>
+		<gx:fid>0x10235730056a3c65:0x5395ef93fe3c6e33</gx:fid>
+		<LookAt>
+			<longitude>2.3462028</longitude>
+			<latitude>6.353171299999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.280687071339</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3462032,6.353171299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0206A8B9E52B3D1F1F40">
+		<name>Pharmacie Les CHERUBINS</name>
+		<gx:mid>/g/11c75cwgzn</gx:mid>
+		<gx:fid>0x103caa5a594a18c9:0x5829bd8082682c2a</gx:fid>
+		<LookAt>
+			<longitude>2.514815</longitude>
+			<latitude>6.375024000000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.230730850187</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.514815,6.375024,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F25FAFC332B3D1F4E65">
+		<name>Pharmacie Avotrou</name>
+		<gx:mid>/g/11hff6x9mv</gx:mid>
+		<gx:fid>0x103cabe1d7f56077:0x4828674bb47b81e8</gx:fid>
+		<LookAt>
+			<longitude>2.4752551</longitude>
+			<latitude>6.377088900000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.226001588945</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4752552,6.3770969,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0F5CA809B32B3D1FDB73">
+		<name>Nouvelle Pharmacie St Michel</name>
+		<gx:mid>/g/11qqt948x5</gx:mid>
+		<gx:fid>0x1023551f3e5e62d3:0xda7f430624763562</gx:fid>
+		<LookAt>
+			<longitude>2.4294075</longitude>
+			<latitude>6.3665231</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.25018452452</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4294075,6.366523099999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08F6E012A12B3D200ABB">
+		<name>Pharmacie akassato</name>
+		<gx:mid>/g/11ddxvq5kp</gx:mid>
+		<gx:fid>0x1024ae95193d67b3:0x9a9bd62bdeabc1ff</gx:fid>
+		<LookAt>
+			<longitude>2.3628796</longitude>
+			<latitude>6.5110907</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.915843872169</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3628796,6.5110907,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="09AB04F6402B3D20DF53">
+		<name>Pharmacie Godomey Centre</name>
+		<gx:mid>/g/11dxb1kct6</gx:mid>
+		<gx:fid>0x1023562d233835ef:0x9acf32f02a0361f0</gx:fid>
+		<LookAt>
+			<longitude>2.3428247</longitude>
+			<latitude>6.3938957</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.187452228177</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3428264,6.3938986,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C608E90402B3D213B86">
+		<name>Pharmacie le Nokoue</name>
+		<gx:mid>/g/11qh2_s0lh</gx:mid>
+		<gx:fid>0x1023552de2bdb719:0xa1e776677e441663</gx:fid>
+		<LookAt>
+			<longitude>2.4300743</longitude>
+			<latitude>6.373209300000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.234885819965</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4301235,6.373147499999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0670B6E41C2B3D2E6B7C">
+		<name>Pharmacie Godomey Centre</name>
+		<gx:mid>/g/11dxb1kct6</gx:mid>
+		<gx:fid>0x1023562d233835ef:0x9acf32f02a0361f0</gx:fid>
+		<LookAt>
+			<longitude>2.3428247</longitude>
+			<latitude>6.3938957</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.187452228177</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3428264,6.3938986,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03E40F2EE92B3D2EFD19">
+		<name>Pharmacie Maria-Gléta</name>
+		<gx:mid>/g/11c54hnjmc</gx:mid>
+		<gx:fid>0x1024a80e05ae304f:0x1105fabbe17d9aae</gx:fid>
+		<LookAt>
+			<longitude>2.311814</longitude>
+			<latitude>6.418065299999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.13183832916</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3118264,6.418075899999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00731732F62B3D2F2340">
+		<name>Pharmacie st Gérard de zoundja</name>
+		<gx:mid>/g/11h7zstmwk</gx:mid>
+		<gx:fid>0x1024a9e42ab1141b:0xdf80634291c50358</gx:fid>
+		<LookAt>
+			<longitude>2.3421687</longitude>
+			<latitude>6.4636403</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.026403989999</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3421766,6.463641099999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02F38215042B3D2F535E">
+		<name>Pharmacie Concorde</name>
+		<gx:mid>/g/11d_yph4s9</gx:mid>
+		<gx:fid>0x1023581955555555:0xca563b9ee312dfa6</gx:fid>
+		<LookAt>
+			<longitude>2.3006039</longitude>
+			<latitude>6.388474599999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.199897487453</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3006039,6.3884746,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A655546DA2B3D2F7B7B">
+		<name>Pharmacie La Cite</name>
+		<gx:mid>/g/1tfdts37</gx:mid>
+		<gx:fid>0x103caad0896663d5:0xcf619b858d2681a5</gx:fid>
+		<LookAt>
+			<longitude>2.4691851</longitude>
+			<latitude>6.367145099999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.248761998228</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.469187,6.367125799999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01EF5417782B3D2FA8DC">
+		<name>Pharmacie La Rose</name>
+		<gx:mid>/g/11km_h250j</gx:mid>
+		<gx:fid>0x102357b6b88a14a7:0x9167e8683cea9cd7</gx:fid>
+		<LookAt>
+			<longitude>2.3277864</longitude>
+			<latitude>6.401980300000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.168872875982</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3277871,6.4019866,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CF53EC8872B3D2FD293">
+		<name>Pharmacie St Abel</name>
+		<gx:mid>/g/11fy5fpd3z</gx:mid>
+		<gx:fid>0x1024a86b12fe1fa1:0x48ebc4ae4ae4aa19</gx:fid>
+		<LookAt>
+			<longitude>2.3186041</longitude>
+			<latitude>6.425646600000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.114350933367</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3186053,6.425645800000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06629AD75D2B3D300648">
+		<name>Pharmacie FIFAME</name>
+		<gx:mid>/g/11hz04wlsj</gx:mid>
+		<gx:fid>0x1024afe09eee824b:0xa81571d58f1c912</gx:fid>
+		<LookAt>
+			<longitude>2.3526453</longitude>
+			<latitude>6.527984799999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.876286541785</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3526504,6.527969,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00CC0D33EF2B3D303651">
+		<name>Pharmacie Gninnin</name>
+		<gx:mid>/g/11h5_v9yst</gx:mid>
+		<gx:fid>0x1024afb72c8116e1:0x32cce4252f14b8b0</gx:fid>
+		<LookAt>
+			<longitude>2.3547488</longitude>
+			<latitude>6.502604400000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.93567603644</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3547488,6.502604399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E63E7D5BB2B3D306CBF">
+		<name>Pharmacie Le Chateau</name>
+		<gx:mid>/g/11cnbxlf3r</gx:mid>
+		<gx:fid>0x1024a91185127d83:0x64cbbcc5bb68f803</gx:fid>
+		<LookAt>
+			<longitude>2.3562041</longitude>
+			<latitude>6.4575809</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.040464659605</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3562034,6.457580800000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AB8B1D4112B3D30B156">
+		<name>Pharmacie Ekpe</name>
+		<gx:mid>/g/11ggrjwg2c</gx:mid>
+		<gx:fid>0x103ca9fb043678a9:0x4a70338bcd36acbe</gx:fid>
+		<LookAt>
+			<longitude>2.5474126</longitude>
+			<latitude>6.3939559</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.187313967733</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.5474126,6.3939559,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0C8B1113722B3D30DE29">
+		<name>Pharmacie LA PROVIDENCE</name>
+		<gx:mid>/g/11h3c49kcq</gx:mid>
+		<gx:fid>0x1023611a9599ea89:0xa6a12a5e7313af12</gx:fid>
+		<LookAt>
+			<longitude>2.087694</longitude>
+			<latitude>6.3748624</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.231100900109</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.087694,6.3748624,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="086552E3242B3D3108BE">
+		<name>Djadjo pharmacie immaculé</name>
+		<gx:mid>/g/11jb2dj3d_</gx:mid>
+		<gx:fid>0x1024a9481a2792c3:0xc493f45a9192b509</gx:fid>
+		<LookAt>
+			<longitude>2.3290399</longitude>
+			<latitude>6.4230752</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.120284547525</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3290399,6.4230752,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06280495F12B3D313F6E">
+		<name>Grpe Han Medi Sante-Phcie Hounchede</name>
+		<gx:mid>/g/11p06rfwwq</gx:mid>
+		<gx:fid>0x103cab5ea9622d45:0x5a574a12734ec5fc</gx:fid>
+		<LookAt>
+			<longitude>2.4668108</longitude>
+			<latitude>6.3814774</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.215945511295</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.4668108,6.3814774,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FFD8992962B3D31700D">
+		<name>Pharmacie De Hevié</name>
+		<gx:mid>/g/11f15mgtp5</gx:mid>
+		<gx:fid>0x1024a7817bac1791:0x3f6bff9cb09cabf7</gx:fid>
+		<LookAt>
+			<longitude>2.2659392</longitude>
+			<latitude>6.4076065</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.155929453829</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.2659392,6.407606500000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08ED162FA42B3D31981C">
+		<name>Pharmacie Djèrègbé</name>
+		<gx:mid>/g/11n05jgxn9</gx:mid>
+		<gx:fid>0x103b5999fe966cef:0xf04e2fb656d6b6a9</gx:fid>
+		<LookAt>
+			<longitude>2.6284215</longitude>
+			<latitude>6.420865500000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.125381639339</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.6284181,6.4208301,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0359C56E152B3D320971">
+		<name>Pharmacie Togoudo</name>
+		<gx:mid>/g/1tcvdxrr</gx:mid>
+		<gx:fid>0x1024a9d4d4d64969:0x5efcaad11da9f703</gx:fid>
+		<LookAt>
+			<longitude>2.3419416</longitude>
+			<latitude>6.4052542</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.161342439564</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3419416,6.4052542,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0201768F052B3D322C20">
+		<name>Pharmacie ETITAYÔ WOMEY</name>
+		<gx:mid>/g/11hf2fg0nt</gx:mid>
+		<gx:fid>0x102357dbc993cbb1:0xe1bc889d5ab5b93</gx:fid>
+		<LookAt>
+			<longitude>2.3171034</longitude>
+			<latitude>6.4024562</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.167778475693</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3171034,6.4024562,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0497846ED62B3D3260D4">
+		<name>Pharmacie Kandévié</name>
+		<gx:mid>/g/1trzm2jl</gx:mid>
+		<gx:fid>0x103b5a1d9aa5220f:0xb2ae47882b139b9c</gx:fid>
+		<LookAt>
+			<longitude>2.6319203</longitude>
+			<latitude>6.486905200000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.972296772873</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.6319203,6.486905200000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DEE4FA4622B3D32C017">
+		<name>Pharmacie Dowa</name>
+		<gx:mid>/g/11g192q2lg</gx:mid>
+		<gx:fid>0x103b5121551e2c71:0xce49beca9e658773</gx:fid>
+		<LookAt>
+			<longitude>2.5997667</longitude>
+			<latitude>6.5061055</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.927497209427</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.5997667,6.506105499999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0AC8C37C712B3D331928">
+		<name>Pharmacie Kpedetin</name>
+		<gx:mid>/g/11gyxwrr0h</gx:mid>
+		<gx:fid>0x103b519487de7811:0x2546e68e636a31bd</gx:fid>
+		<LookAt>
+			<longitude>2.5842062</longitude>
+			<latitude>6.566374300000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.786019601036</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.5842062,6.566374299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0E0D77BC9A2B3D33F92D">
+		<name>Pharmacie St Marcellin</name>
+		<gx:mid>/g/11srhc41f5</gx:mid>
+		<gx:fid>0x1024a9a7859f3e93:0x6a57c0b277e3f08b</gx:fid>
+		<LookAt>
+			<longitude>2.313056599999999</longitude>
+			<latitude>6.4350784</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.092566464453</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3130566,6.4350784,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0CD8E9D9652B3D390AB9">
+		<name>Pharmacie Les Graces Divines de Ouedo</name>
+		<gx:mid>/g/11df0rlbmg</gx:mid>
+		<gx:fid>0x1024a64f62049fb5:0x72e87bc083e5e8cc</gx:fid>
+		<LookAt>
+			<longitude>2.2762216</longitude>
+			<latitude>6.4559048</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.044351690938</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.2762251,6.455877099999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="00162F7D002B3D394391">
+		<name>Pharmacie Agbokou</name>
+		<gx:mid>/g/1thvd1pk</gx:mid>
+		<gx:fid>0x103b5993a7ce08eb:0x61d15615bdefcba2</gx:fid>
+		<LookAt>
+			<longitude>2.6413965</longitude>
+			<latitude>6.472116700000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.006712766229</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.6413965,6.472116699999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="072A5E00C82B3D3986CA">
+		<name>Pharmacie De l&apos;Etoile De Kpokon</name>
+		<gx:mid>/g/1v387c04</gx:mid>
+		<gx:fid>0x10251bfc31fd6bf9:0xd44407787fde6d43</gx:fid>
+		<LookAt>
+			<longitude>2.063730000000001</longitude>
+			<latitude>7.180479999999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1047.270657221618</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.06373,7.18048,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="016941B1AD2B3D39E5A1">
+		<name>Pharmacie la Référence</name>
+		<gx:mid>/g/11trpfb_r1</gx:mid>
+		<gx:fid>0x1024a92f522ee241:0xbd25b89812311860</gx:fid>
+		<LookAt>
+			<longitude>2.333143</longitude>
+			<latitude>6.4364066</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.089496194473</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3331312,6.4363768,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0612F484632B3D3A2837">
+		<name>Pharmacie du Lac</name>
+		<gx:mid>/g/11c618pktk</gx:mid>
+		<gx:fid>0x1024a909b6d3cb49:0x9df311bba79c7e2b</gx:fid>
+		<LookAt>
+			<longitude>2.3547683</longitude>
+			<latitude>6.4466605</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.065772076217</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.3547563,6.446663099999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0FC6B50B6C2B3D3B3114">
+		<name>Pharmacie Nouvel Horizon</name>
+		<gx:mid>/g/11ks0d2215</gx:mid>
+		<gx:fid>0x103b574afcdbb669:0x1e73945b08335950</gx:fid>
+		<LookAt>
+			<longitude>2.5990835</longitude>
+			<latitude>6.4224777</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.121662966319</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.5990835,6.4224777,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04D355EA2B2B3D3B5C06">
+		<name>Pharmacie AZONNIGBO</name>
+		<gx:mid>/g/11dyxbxptq</gx:mid>
+		<gx:fid>0x10251bff41872ed7:0x721808b158cd5d45</gx:fid>
+		<LookAt>
+			<longitude>2.0626522</longitude>
+			<latitude>7.175271</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1047.284075561141</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.0626598,7.175345300000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="05F58165DC2B3D3C896E">
+		<name>Pharmacie midokpo</name>
+		<gx:mid>/g/11fkm9q03h</gx:mid>
+		<gx:fid>0x1025197ecf0764bd:0x21bb4785cd2e9b47</gx:fid>
+		<LookAt>
+			<longitude>2.0672842</longitude>
+			<latitude>7.175191300000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1047.284280792675</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.0673225,7.175186399999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A0E6619B92B3D3CB10E">
+		<name>Pharmacie HOUEFA</name>
+		<gx:mid>/g/11fjwzvxrn</gx:mid>
+		<gx:fid>0x10251fe67dee4a35:0xc8be6692a4de00f8</gx:fid>
+		<LookAt>
+			<longitude>2.090158</longitude>
+			<latitude>7.171429299999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1047.29396556198</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.0901521,7.1713935,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03FF8A2BA32B3D3CD826">
+		<name>Pharmacie Adanhounsa</name>
+		<gx:mid>/g/11p5zkr0c7</gx:mid>
+		<gx:fid>0x1024bf6166f560a9:0x2177ca1c0dec5608</gx:fid>
+		<LookAt>
+			<longitude>2.1496048</longitude>
+			<latitude>6.6633692</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.555610301697</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.1495807,6.6633108,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0DC12BDC882B3D3D05E5">
+		<name>Pharmacie Djeffa</name>
+		<gx:mid>/g/11hff61yl0</gx:mid>
+		<gx:fid>0x103ca9422ec8e1a3:0x92a2ca015d84766a</gx:fid>
+		<LookAt>
+			<longitude>2.5637057</longitude>
+			<latitude>6.389753700000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.196961993187</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.5637057,6.3897537,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="03186C89CE2B3D3D34F8">
+		<name>Pharmacie Djeffa</name>
+		<gx:mid>/g/11hff61yl0</gx:mid>
+		<gx:fid>0x103ca9422ec8e1a3:0x92a2ca015d84766a</gx:fid>
+		<LookAt>
+			<longitude>2.5637057</longitude>
+			<latitude>6.389753700000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.196961993187</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.5637057,6.3897537,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="020A7AF50B2B3D3D6050">
+		<name>Pharmacie Badirou</name>
+		<gx:mid>/g/11bwnxynk5</gx:mid>
+		<gx:fid>0x103b59899aa9f807:0xab58264f9cf0c38b</gx:fid>
+		<LookAt>
+			<longitude>2.6444001</longitude>
+			<latitude>6.484090999999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.978852025618</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.6444532,6.4841088,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="070F3D98152B3D3D8E68">
+		<name>Pharmacie Tohouè</name>
+		<gx:mid>/g/11qps43yt0</gx:mid>
+		<gx:fid>0x103b59610a198253:0xc7f1bb1474fcb9d9</gx:fid>
+		<LookAt>
+			<longitude>2.6629799</longitude>
+			<latitude>6.431052</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.101870054157</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.6629807,6.431047999999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08B5CF82762B3D3DB67B">
+		<name>Pharmacie Hevie</name>
+		<gx:mid>/g/11rk8zsgtf</gx:mid>
+		<gx:fid>0x1024a7891083fb9d:0x1b79bd0c8089f6f9</gx:fid>
+		<LookAt>
+			<longitude>2.248591599999999</longitude>
+			<latitude>6.407138199999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.157007237869</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.2485656,6.4070467,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="08F58DDE232B3D3E1955">
+		<name>Pharmacie Owodé</name>
+		<gx:mid>/g/11n63sj1pq</gx:mid>
+		<gx:fid>0x103b5ffc87efaff5:0x1be682342afa0c74</gx:fid>
+		<LookAt>
+			<longitude>2.6985613</longitude>
+			<latitude>6.4247623</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.116391759076</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.6985613,6.4247622,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="02C8CF90272B3D3EBFC5">
+		<name>Pharmacie ZOGBEDJI</name>
+		<gx:mid>/g/11fsn6046m</gx:mid>
+		<gx:fid>0x1024652952f72df5:0x1876ef8573ca2c34</gx:fid>
+		<LookAt>
+			<longitude>1.7153759</longitude>
+			<latitude>6.6406605</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.60985501156</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>1.7153759,6.6406605,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="01694D00D92B3D3F3C04">
+		<name>Pharmacie Louvertu</name>
+		<gx:mid>/g/11hbg8l18l</gx:mid>
+		<gx:fid>0x1024be21d833099b:0x571fd6de26f1b02f</gx:fid>
+		<LookAt>
+			<longitude>2.1481147</longitude>
+			<latitude>6.680712799999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.514057510635</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.1480467,6.6807323,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0A148504382B3D3F6171">
+		<name>Pharmacie EYRAM</name>
+		<gx:mid>/g/11jyn4xtj9</gx:mid>
+		<gx:fid>0x1024892d94b1bef1:0x3168e8c519e377de</gx:fid>
+		<LookAt>
+			<longitude>1.9027998</longitude>
+			<latitude>6.624348399999999</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.648706594909</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>1.9027998,6.6243484,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="06C3F29E5E2B3D3F8A38">
+		<name>Pharmacie Kraké</name>
+		<gx:mid>/g/11jrxn3vqc</gx:mid>
+		<gx:fid>0x103ca7ac3af67b7f:0xcb8f928bb99481e4</gx:fid>
+		<LookAt>
+			<longitude>2.6973968</longitude>
+			<latitude>6.3788607</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1049.221942404951</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.6973968,6.3788607,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="0D7787659D2B3D3FB36D">
+		<name>Pharmacie Le Bon Samaritain</name>
+		<gx:mid>/g/11b6d7dn5d</gx:mid>
+		<gx:fid>0x1024643531dbc5ed:0x831936212ec999b5</gx:fid>
+		<LookAt>
+			<longitude>1.7153616</longitude>
+			<latitude>6.6415193</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.607806923775</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>1.7153616,6.641519300000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="063E1F79522B3D3FDFB2">
+		<name>Pharmacie AGNIDE</name>
+		<gx:mid>/g/11rfpf9cfp</gx:mid>
+		<gx:fid>0x10251f296bdac5cf:0x9b254596d8626bf4</gx:fid>
+		<LookAt>
+			<longitude>2.086133</longitude>
+			<latitude>7.1527838</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1047.341891596602</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.086133,7.152783800000001,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="07FCEC68872B3D4043E3">
+		<name>Pharmacie Olayèmi</name>
+		<gx:mid>/g/11g9qt2ymj</gx:mid>
+		<gx:fid>0x103b5a1aa20c3a49:0xbe6267ab6f2256b6</gx:fid>
+		<LookAt>
+			<longitude>2.6300669</longitude>
+			<latitude>6.496452300000001</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.950037204869</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.6300669,6.496452299999999,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="082E7F59912B3D407B45">
+		<name>Pharmacie Sainte Marie</name>
+		<gx:mid>/g/11fsty7wjx</gx:mid>
+		<gx:fid>0x103b5196e3f6928b:0x31e3f44ef809e257</gx:fid>
+		<LookAt>
+			<longitude>2.6134708</longitude>
+			<latitude>6.498518</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1048.945216638636</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>2.6134595,6.4985316,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark id="04FDD3E67E2B3D40AEE5">
+		<name>Pharmacie Tissanta</name>
+		<gx:mid>/g/11fb0g1f8f</gx:mid>
+		<gx:fid>0x102cbd3f0dea4c65:0x1044dc834f7cfa83</gx:fid>
+		<LookAt>
+			<longitude>1.3796633</longitude>
+			<latitude>10.2956374</latitude>
+			<altitude>0</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>1037.523983453453</range>
+			<altitudeMode>relativeToGround</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_04661C4DB12B3CFB1220</styleUrl>
+		<Point>
+			<altitudeMode>relativeToGround</altitudeMode>
+			<coordinates>1.3796542,10.2956411,0</coordinates>
+		</Point>
+	</Placemark>
+</Document>
+</kml>

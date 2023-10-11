@@ -1,0 +1,302 @@
+---
+title: "Analyses"
+author: "Doris"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(htmlwidgets)
+library(gsheet)
+library(leaflet)
+library(dplyr)
+library(ggplot2)
+library(readxl)
+```
+
+```{r}
+
+NeuroAI_Test <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1XSqjTqO4GRlp5Mq2IjdJQwq2n3X_imTMDL8l5UGq05M/edit?usp=sharing")
+
+NeuroAI_Test <- transform(NeuroAI_Test, lat = as.numeric(lat), lon = as.numeric(lon))
+```
+
+```{r}
+
+# Create the leaflet map
+leaflet(NeuroAI_Test) %>%
+addProviderTiles("OpenStreetMap.Mapnik") %>%
+fitBounds(lng1 = 0.7769, lat1 = 6.0392, lng2 = 3.8517, lat2 = 12.4093) %>% # Bounds for Benin
+addCircleMarkers(
+lat = ~lat,
+lng = ~lon,
+popup = ~paste0(
+"<b>Resident: </b>", resident, "<br>",
+"<b>Department: </b>", department, "<br>",
+"<b>Medicine: </b>", medicine, "<br>",
+"<b>Morning Dose: </b>", morning_dose, "<br>",
+"<b>Midday Dose: </b>", midday_dose, "<br>",
+"<b>Evening Dose: </b>", evening_dose, "<br>",
+"<b>Availability: </b>", ifelse(availability_medicine, "Yes", "No"), "<br>",
+"<b>Out of Stock: </b>", ifelse(out_of_stock, "Yes", "No"), "<br>",
+"<b>Level Out of Stock: </b>", level_out_of_stock, "<br>",
+"<b>Duration Out of Stock: </b>", duration_out_of_stock, "<br>",
+"<b>Financial Resources: </b>", ifelse(financial_resources, "Yes", "No")
+),
+radius = 8,
+color = ~ifelse(availability_medicine, "green", "red")
+)
+
+```
+
+```{r}
+colnames(NeuroAI_Test)
+```
+
+```{r}
+
+
+benin <- leaflet() %>% 
+setView(lng = 2, lat = 9, zoom = 4.5) %>% 
+  addTiles(group = "Title") %>%
+  addMarkers(data=NeuroAI_Test,lat= ~lat, lng = ~lon, popup = ~paste0(
+"<b>Resident: </b>", resident, "<br>",
+"<b>Department: </b>", department, "<br>",
+"<b>Medicine: </b>", medicine, "<br>",
+"<b>Morning Dose: </b>", morning_dose, "<br>",
+"<b>Midday Dose: </b>", midday_dose, "<br>",
+"<b>Evening Dose: </b>", evening_dose, "<br>",
+"<b>Availability: </b>", ifelse(availability_medicine, "Yes", "No"), "<br>",
+"<b>Out of Stock: </b>", ifelse(out_of_stock, "Yes", "No"), "<br>",
+"<b>Level Out of Stock: </b>", level_out_of_stock, "<br>",
+"<b>Duration Out of Stock: </b>", duration_out_of_stock, "<br>",
+"<b>Financial Resources: </b>", ifelse(financial_resources, "Yes", "No")
+),
+             clusterOptions = markerClusterOptions) %>%
+  addScaleBar() %>%
+  addMiniMap()
+
+benin
+```
+
+```{r}
+
+# Agrégation des données pour calculer les fréquences
+aggregated_data <- NeuroAI_Test %>%
+  group_by(consent) %>%
+  summarise(Frequence = n())
+
+aggregated_data
+
+# Conversion de la colonne "Consent" en facteur pour un meilleur étiquetage
+aggregated_data$Consent <- factor(aggregated_data$consent, levels = c(FALSE, TRUE), labels = c("Non", "Oui"))
+
+# Création du diagramme à barres pour la fréquence des valeurs "Consent"
+ggplot(aggregated_data, aes(x = Consent, y = Frequence, fill = Consent)) +
+  geom_bar(stat = "identity") +
+  labs(title = "Réprésentation du Consentement", x = "Consentement", y = "Fréquence")
+
+
+# Créer le diagramme en demi-cadran
+p <- ggplot(aggregated_data, aes(x = "", y = Frequence, fill = consent)) +
+  geom_col(width = 1) +
+  coord_polar(theta = "y", start = 0, direction = -1) +
+  theme_void() +
+  xlim(c(-1, 1))
+
+# Personnaliser les couleurs de manière discrète
+colors <- c("green", "red")  # Choisissez vos couleurs
+p <- p + scale_fill_manual(values = colors, guide = FALSE)
+
+# Ajouter des étiquettes de données au centre du diagramme
+p <- p + geom_text(aes(label = Frequence), position = position_stack(vjust = 0.5), size = 6, color = "white")
+
+# Ajouter un titre
+p <- p + labs(title = "Participants")
+
+# Afficher le diagramme
+print(p)
+
+```
+
+```{r}
+# Compter le nombre de fois que chaque médicament apparaît
+comptage_medicaments <- as.data.frame(table(NeuroAI_Test$medicine))
+comptage_medicaments
+```
+
+```{r}
+
+# Compter le nombre de fois que chaque médicament apparaît
+comptage_medicaments <- as.data.frame(table(NeuroAI_Test$medicine))
+
+# Calculer les pourcentages
+comptage_medicaments$Pourcentage <- (comptage_medicaments$Freq / sum(comptage_medicaments$Freq)) * 100
+
+# Créer un diagramme circulaire avec des couleurs générées automatique
+ggplot(comptage_medicaments, aes(x = "", y = Freq, fill = Var1)) +
+  geom_bar(stat = "identity", width = 1) +
+  coord_polar(theta = "y") +
+  scale_fill_hue() +  # Utiliser une palette de couleurs basée sur la teinte
+  theme_void() +  # Supprimer les éléments du thème par défaut
+  labs(title = "Diagramme Circulaire du Comptage des Médicaments", fill = "Médicaments") +
+  geom_text(aes(label = paste(round(Pourcentage, 1), "%")), position = position_stack(vjust = 0.5))  # Formater l'axe y en pourcentage
+
+```
+
+```{r}
+
+# Définir une icône personnalisée verte
+greenIcon <- makeIcon(
+  iconUrl = "https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-green.png",
+  iconWidth = 25, iconHeight = 41
+)
+
+# Charger les données depuis le fichier Excel
+phcies_data <- read_xlsx("./phcies_benin.xlsx")
+phcies_data <- transform(phcies_data, lat = as.numeric(lat), lon = as.numeric(lon))
+
+# Créer une carte Leaflet avec des marqueurs verts
+phcies_benin <- leaflet() %>% 
+  setView(lng = 2, lat = 9, zoom = 6) %>% 
+  addTiles(group = "Title") %>%
+  addMarkers(data = phcies_data, lat = ~lat, lng = ~lon, popup = phcies_data$Name,
+             clusterOptions = markerClusterOptions, icon = greenIcon)  # Utiliser l'icône personnalisée verte
+
+# Afficher la carte
+phcies_benin
+```
+
+```{r}
+
+# Calculer la moyenne du risque de rupture par médicament
+moyenne_risque_par_medicament <- NeuroAI_Test %>%
+  group_by(NeuroAI_Test$medicine) %>%
+  summarise(MoyenneRisque = mean(NeuroAI_Test$level_out_of_stock, na.rm = TRUE))
+moyenne_risque_par_medicament
+
+
+# Calculer la moyenne de la durée de rupture par médicament
+moyenne_duree_risque_par_medicament <- NeuroAI_Test %>%
+  group_by(NeuroAI_Test$medicine) %>%
+  summarise(MoyenneRisque = mean(NeuroAI_Test$duration_out_of_stock, na.rm = TRUE))
+moyenne_duree_risque_par_medicament
+
+# Créer une dataframe avec les données de moyenne du risque de rupture
+donnees_risque_moyen <- data.frame(
+  Medicament = moyenne_risque_par_medicament$`NeuroAI_Test$medicine`,
+  MoyenneRisque = moyenne_risque_par_medicament$MoyenneRisque,
+  Variable = rep("Risque de rupture", nrow(moyenne_risque_par_medicament))
+)
+donnees_risque_moyen
+
+# Créer une dataframe avec les données de moyenne de la durée de rupture
+donnees_duree_moyenne <- data.frame(
+  Medicament = moyenne_duree_risque_par_medicament$`NeuroAI_Test$medicine`,
+  MoyenneRisque = moyenne_duree_risque_par_medicament$MoyenneRisque,
+  Variable = rep("Durée de rupture", nrow(moyenne_risque_par_medicament))
+)
+donnees_duree_moyenne
+
+# Renommer les colonnes dans les dataframes pour qu'elles correspondent
+colnames(moyenne_risque_par_medicament) <- c("Medicament", "Moyenne")
+colnames(moyenne_risque_par_medicament) <- c("Medicament", "Moyenne")
+
+
+# Combiner les données de moyenne du risque et de la durée de rupture
+donnees_moyennes <- rbind(donnees_risque_moyen, donnees_duree_moyenne)
+
+
+# Créer le barplot avec des couleurs ajustées
+ggplot(donnees_moyennes, aes(x = Medicament, y = MoyenneRisque, fill = Variable)) +
+  geom_bar(stat = "identity", position = "dodge") +
+  labs(title = "Moyennes de Risque de Rupture et Durée de Rupture par Médicament",
+       x = "Médicament",
+       y = "Moyenne") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  scale_fill_manual(values = c("Durée de rupture" = "#FF9999", "Risque de rupture" = "red")) +  # Rouge moins pur pour la durée de rupture
+  guides(fill = guide_legend(title = "Variable"))  # Ajouter une légende pour expliquer les couleurs
+
+```
+
+```{r}
+
+ggplot(NeuroAI_Test, aes(x = "", fill = availability_medicine)) +
+  geom_bar(stat = "count") +
+  coord_polar("y", start = 0) +
+  labs(title = "Disponibilité des Médicaments",
+       fill = "Disponibilité") +
+  scale_fill_manual(values = c("TRUE" = "green", "FALSE" = "red")) +  # Couleurs pour TRUE et FALSE
+  theme_void()
+
+```
+
+```{r}
+
+
+
+# Supposons que vous ayez une dataframe appelée "donnees_medicaments" avec les colonnes "medicine" et "availability_medicine"
+
+# Créer un graphique à barres empilées
+stackedbar <- ggplot(NeuroAI_Test, aes(x = medicine, fill = availability_medicine)) +
+  geom_bar() +
+  labs(title = "Disponibilité des Médicaments par Médicament",
+       x = "Médicament",
+       y = "Nombre de Médicaments") +
+  scale_fill_manual(values = c("TRUE" = "green", "FALSE" = "red")) +  # Couleurs pour TRUE et FALSE
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  guides(fill = guide_legend(title = "Disponibilité"))
+
+# Afficher le graphique à barres empilées
+print(stackedbar)
+
+
+```
+
+```{r}
+
+# Charger la bibliothèque ggplot2
+library(ggplot2)
+
+# Supposons que vous ayez une dataframe appelée "donnees_medicaments" avec les colonnes "medicine" et "availability_medicine"
+
+# Créer un graphique à barres empilées
+stacked_barplot <- ggplot(NeuroAI_Test, aes(x = medicine, fill = availability_medicine)) +
+  geom_bar() +
+  labs(title = "Disponibilité des Médicaments par Médicament",
+       x = "Médicament",
+       y = "Nombre de Médicaments") +
+  scale_fill_manual(values = c("TRUE" = "green", "FALSE" = "red")) +  # Couleurs pour TRUE et FALSE
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  guides(fill = guide_legend(title = "Disponibilité"))
+
+# Afficher le graphique à barres empilées
+print(stacked_barplot)
+
+
+```
+
+```{r}
+
+# Supposons que vous ayez une dataframe appelée "donnees_medicaments" avec les colonnes "medicine" et "financial_resources"
+
+# Créer un graphique à barres
+ggplot(NeuroAI_Test, aes(x = medicine, fill = financial_resources)) +
+  geom_bar() +
+  labs(title = "Ressources Financières des Médicaments",
+       x = "Médicament",
+       y = "Nombre de Médicaments") +
+  scale_fill_manual(values = c("TRUE" = "green", "FALSE" = "red")) +  # Couleurs pour TRUE et FALSE
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  guides(fill = guide_legend(title = "Ressources Financières"))
+
+# Afficher le graphique à barres
+
+
+```
+

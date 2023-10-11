@@ -1,0 +1,173 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    2.315834,
+                    9.30769
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Bénin",
+                "name": "Bénin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7779813,
+                    10.9681093
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Alibori",
+                "name": "Alibori"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6760691,
+                    10.7954931
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Atakora",
+                "name": "Atakora"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.2236667,
+                    6.6588391
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Atlantique",
+                "name": "Atlantique"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.7779813,
+                    9.5340864
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Borgou",
+                "name": "Borgou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.302446,
+                    8.3022297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Collines",
+                "name": "Collines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.7538817,
+                    7.0035894
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Kouffo",
+                "name": "Kouffo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6760691,
+                    9.7191867
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Donga",
+                "name": "Donga"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4406387,
+                    6.3806973
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Littoral",
+                "name": "Littoral"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.7538817,
+                    6.6607182
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Mono",
+                "name": "Mono"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4999918,
+                    6.6148152
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Ouémé",
+                "name": "Ouémé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.0665197,
+                    7.3469268
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Zou",
+                "name": "Zou"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}

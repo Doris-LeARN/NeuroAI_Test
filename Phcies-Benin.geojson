@@ -1,0 +1,3295 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3912362,
+                    6.370292799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie La Beninoise",
+                "name": "Pharmacie La Beninoise"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3912362,
+                    6.370292799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Okpe-oluwa",
+                "name": "Pharmacie Okpe-oluwa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4182102,
+                    6.3561453
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Camp Guezo",
+                "name": "Pharmacie Camp Guezo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3933841,
+                    6.369409099999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Nouvelle Pharmacie Houéyiho",
+                "name": "Nouvelle Pharmacie Houéyiho"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.39019,
+                    6.378274699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Akossombo",
+                "name": "Pharmacie Akossombo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.420163,
+                    6.367187700000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Adechina",
+                "name": "Pharmacie Adechina"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4153961,
+                    6.3691909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Alafia",
+                "name": "Pharmacie Alafia"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3912988,
+                    6.382036599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Vêdoko",
+                "name": "Pharmacie Vêdoko"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4303788,
+                    6.3694161
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie DES 4 THERAPIES",
+                "name": "Pharmacie DES 4 THERAPIES"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4043295,
+                    6.3746322
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Nouvelle Pharmacie AGONTIKON ADJIBADE",
+                "name": "Nouvelle Pharmacie AGONTIKON ADJIBADE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3846274,
+                    6.3640047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Fidjrossè",
+                "name": "Pharmacie Fidjrossè"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4078381,
+                    6.365534700000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie De La Paix",
+                "name": "Pharmacie De La Paix"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3725349,
+                    6.380884899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Les Pylônes",
+                "name": "Pharmacie Les Pylônes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4136739,
+                    6.362703
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie du rond point",
+                "name": "Pharmacie du rond point"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3824391,
+                    6.3777596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie de l'Etoile",
+                "name": "Pharmacie de l'Etoile"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3824391,
+                    6.3777596
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie de l'Etoile",
+                "name": "Pharmacie de l'Etoile"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.39896,
+                    6.353722299999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Les Cocotiers",
+                "name": "Pharmacie Les Cocotiers"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3653352,
+                    6.367934
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Cristal Santé",
+                "name": "Pharmacie Cristal Santé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3707441,
+                    6.3578815
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie la Madone",
+                "name": "Pharmacie la Madone"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3581144,
+                    6.3581688
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Nouvelle Pharmacie Akogbato",
+                "name": "Nouvelle Pharmacie Akogbato"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4315482,
+                    6.3584261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie JONQUET",
+                "name": "Pharmacie JONQUET"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4127814,
+                    6.373469999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Okpè Oluwa",
+                "name": "Pharmacie Okpè Oluwa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3954204,
+                    6.377085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "PHARMACIE DON DE DIEU",
+                "name": "PHARMACIE DON DE DIEU"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4165547,
+                    6.3706437
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Marina",
+                "name": "Pharmacie Marina"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4021619,
+                    6.3645705
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Ste Philomène",
+                "name": "Pharmacie Ste Philomène"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4084183,
+                    6.3634691
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Gbegamey",
+                "name": "Pharmacie Gbegamey"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3986432,
+                    6.3729171
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "PHARMACIE SAINTE FOI",
+                "name": "PHARMACIE SAINTE FOI"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3393178,
+                    6.402537499999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Le Jourdain",
+                "name": "Pharmacie Le Jourdain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3349784,
+                    6.3833853
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Espace Santé",
+                "name": "Pharmacie Espace Santé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3999115,
+                    6.356898699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie de la Haie -Vive",
+                "name": "Pharmacie de la Haie -Vive"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3255579,
+                    6.386813200000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Godomey PK 14",
+                "name": "Pharmacie Godomey PK 14"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4466744,
+                    6.374016999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Sacré Coeur",
+                "name": "Pharmacie Sacré Coeur"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4257314,
+                    6.359457099999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Zongo",
+                "name": "Pharmacie Zongo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4218119,
+                    6.357518299999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie NIMA",
+                "name": "Pharmacie NIMA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4471804,
+                    6.3916245
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Agbodjèdo",
+                "name": "Pharmacie Agbodjèdo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3882108,
+                    6.3901857
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Zogbo",
+                "name": "Pharmacie Zogbo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3649559,
+                    6.3570405
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Océane",
+                "name": "Pharmacie Océane"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4366813,
+                    6.3550537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie GANHI",
+                "name": "Pharmacie GANHI"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4299377,
+                    6.3720358
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie le rocher cotonou",
+                "name": "Pharmacie le rocher cotonou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4771675,
+                    6.367864599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Bolarin",
+                "name": "Pharmacie Bolarin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4417808,
+                    6.377370199999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Midombo",
+                "name": "Pharmacie Midombo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4519859,
+                    6.3721625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Ciné Concorde",
+                "name": "Pharmacie Ciné Concorde"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3411118,
+                    6.381175199999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie st PAUL",
+                "name": "Pharmacie st PAUL"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3610741,
+                    6.3696759
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Salem de Agla",
+                "name": "Pharmacie Salem de Agla"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3406945,
+                    6.3741922
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Godomey Fignonhou",
+                "name": "Pharmacie Godomey Fignonhou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4486322,
+                    6.3770246
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Adetona Lomnava",
+                "name": "Pharmacie Adetona Lomnava"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3648568,
+                    6.3919535
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Kindonou",
+                "name": "Pharmacie Kindonou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4165599,
+                    6.365910100000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Amen",
+                "name": "Pharmacie Amen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.432202,
+                    6.3512346
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Du Port",
+                "name": "Pharmacie Du Port"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3746409,
+                    6.3883401
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Ste Famille",
+                "name": "Pharmacie Ste Famille"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3607279,
+                    6.392767099999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Saintete à l'Eternel",
+                "name": "Pharmacie Saintete à l'Eternel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4169097,
+                    6.383197
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Gbedjromede",
+                "name": "Pharmacie Gbedjromede"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4368479,
+                    6.3620075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "PHARMACIE PRINCIPALE Dr Gisele GRIMAUD",
+                "name": "PHARMACIE PRINCIPALE Dr Gisele GRIMAUD"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4133316,
+                    6.3828583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie de l'espérance",
+                "name": "Pharmacie de l'espérance"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4406786,
+                    6.384276799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie L'Immaculée",
+                "name": "Pharmacie L'Immaculée"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4220458,
+                    6.360658399999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Saint Jean",
+                "name": "Pharmacie Saint Jean"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4466421,
+                    6.3656285
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Nouvelle Pharmacie de I'Habitat",
+                "name": "Nouvelle Pharmacie de I'Habitat"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4641981,
+                    6.3730427
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Saint Martin",
+                "name": "Pharmacie Saint Martin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4135771,
+                    6.388032399999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Sainte Euphrasie",
+                "name": "Pharmacie Sainte Euphrasie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4467193,
+                    6.381175699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Segbeya",
+                "name": "Pharmacie Segbeya"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3793498,
+                    6.3819085
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie de l'Amitié",
+                "name": "Pharmacie de l'Amitié"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4251561,
+                    6.378584899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Jericho",
+                "name": "Pharmacie Jericho"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3507349,
+                    6.374909
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Les Archanges",
+                "name": "Pharmacie Les Archanges"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3398755,
+                    6.378701
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Houenoussou Gare Ocbin",
+                "name": "Pharmacie Houenoussou Gare Ocbin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4548198,
+                    6.3705721
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Port Royal",
+                "name": "Pharmacie Port Royal"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4566795,
+                    6.3896907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Yenawa",
+                "name": "Pharmacie Yenawa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3932727,
+                    6.366603599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "MMSE",
+                "name": "MMSE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3828188,
+                    6.3922067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Ste Madeleine",
+                "name": "Pharmacie Ste Madeleine"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.331472,
+                    6.381895399999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Dekoungbe",
+                "name": "Pharmacie Dekoungbe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4785593,
+                    6.370709599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Melwash",
+                "name": "Melwash"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4534947,
+                    6.389155199999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie \"Reine Des Grâces\"",
+                "name": "Pharmacie \"Reine Des Grâces\""
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4018049,
+                    6.381174399999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie VIE NOUVELLE",
+                "name": "Pharmacie VIE NOUVELLE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4251067,
+                    6.3832711
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Aïdjèdo",
+                "name": "Pharmacie Aïdjèdo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3636684,
+                    6.38009
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Saint-Etienne",
+                "name": "Pharmacie Saint-Etienne"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4072038,
+                    6.353410999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Saint Louis",
+                "name": "Pharmacie Saint Louis"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4946885,
+                    6.3706764
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Val des Grâces",
+                "name": "Pharmacie Val des Grâces"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4721371,
+                    6.381517999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Bien Être",
+                "name": "Pharmacie Bien Être"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3912362,
+                    6.370292799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Bio",
+                "name": "Pharmacie Bio"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4213967,
+                    6.370625
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Le Conseil",
+                "name": "Pharmacie Le Conseil"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3567709,
+                    6.371833000000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Luli Luli",
+                "name": "Pharmacie Luli Luli"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3934973,
+                    6.390812899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Tamaya",
+                "name": "Pharmacie Tamaya"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4339721,
+                    6.3652354
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie St Joseph",
+                "name": "Pharmacie St Joseph"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4374778,
+                    6.352872999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie La Prophétie",
+                "name": "Pharmacie La Prophétie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4343739,
+                    6.3616264
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Atinkanme",
+                "name": "Pharmacie Atinkanme"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4248789,
+                    6.373865599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie le Nokoué",
+                "name": "Pharmacie le Nokoué"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4362337,
+                    6.3594903
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Vogue",
+                "name": "Pharmacie Vogue"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4567954,
+                    6.377246400000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie La Destinée Senadé sarl",
+                "name": "Pharmacie La Destinée Senadé sarl"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4445946,
+                    6.360674899999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Ancien Pont",
+                "name": "Pharmacie Ancien Pont"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3977711,
+                    6.390879699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Palace plus",
+                "name": "Pharmacie Palace plus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3475592,
+                    6.385184799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Ayessi",
+                "name": "Pharmacie Ayessi"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.384538,
+                    6.3868748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Renouveau",
+                "name": "Pharmacie Renouveau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4307555,
+                    6.3604075
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie MAHUENA",
+                "name": "Pharmacie MAHUENA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3201679,
+                    6.371942199999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Hedomey",
+                "name": "Pharmacie Hedomey"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3976584,
+                    6.361046599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Cadjehoun",
+                "name": "Pharmacie Cadjehoun"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3559253,
+                    6.353875999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Fidjrossè Plage",
+                "name": "Pharmacie Fidjrossè Plage"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4492753,
+                    6.3717386
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Ayelawadje",
+                "name": "Pharmacie Ayelawadje"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4964949,
+                    6.3679529
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie l'HARMONIE",
+                "name": "Pharmacie l'HARMONIE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4045631,
+                    6.386155899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Nouvelle Pharmacie Fifadji",
+                "name": "Nouvelle Pharmacie Fifadji"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4004914,
+                    6.377108199999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie st Gabriel",
+                "name": "Pharmacie st Gabriel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.425616,
+                    6.3577157
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie MOSQUÉE CENTRALE ZONGO",
+                "name": "Pharmacie MOSQUÉE CENTRALE ZONGO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4636437,
+                    6.3821217
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie HOUNTCHEDE KOWEGBO",
+                "name": "Pharmacie HOUNTCHEDE KOWEGBO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4721129,
+                    6.371286899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Tanto",
+                "name": "Pharmacie Tanto"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4335193,
+                    6.3712541
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Nouvelle Pharmacie Dantokpa",
+                "name": "Nouvelle Pharmacie Dantokpa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4426869,
+                    6.3720602
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie St Raphael du Nouveau Pont",
+                "name": "Pharmacie St Raphael du Nouveau Pont"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4864768,
+                    6.375261
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie agblangandan",
+                "name": "Pharmacie agblangandan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3497002,
+                    6.392313400000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Saint Adele",
+                "name": "Pharmacie Saint Adele"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3686855,
+                    6.3876666
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Nouvelle pharmacie Menontin",
+                "name": "Nouvelle pharmacie Menontin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4111928,
+                    6.3778257
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie l’eternite",
+                "name": "Pharmacie l’eternite"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4653611,
+                    6.3768872
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Suru-Léré",
+                "name": "Pharmacie Suru-Léré"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3740616,
+                    6.385038899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Oladjouan",
+                "name": "Pharmacie Oladjouan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4520695,
+                    6.3922748
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie gracia minnontchou",
+                "name": "Pharmacie gracia minnontchou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.348417,
+                    6.440156
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Sos Santé",
+                "name": "Pharmacie Sos Santé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4279005,
+                    6.369163299999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Sainte Cécile",
+                "name": "Pharmacie Sainte Cécile"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4794374,
+                    6.3767277
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie St Urbain",
+                "name": "Pharmacie St Urbain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.425519,
+                    6.370509699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie du Marché St Michel",
+                "name": "Pharmacie du Marché St Michel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4243146,
+                    6.3675635
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Forum Santé",
+                "name": "Pharmacie Forum Santé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3177557,
+                    6.388397599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Le President",
+                "name": "Pharmacie Le President"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4307636,
+                    6.3691228
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "pharmacie cristale dodji",
+                "name": "pharmacie cristale dodji"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4550412,
+                    6.3674278
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Le Remede",
+                "name": "Pharmacie Le Remede"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3462032,
+                    6.353171299999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Les Maristes",
+                "name": "Pharmacie Les Maristes"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.514815,
+                    6.375024
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Les CHERUBINS",
+                "name": "Pharmacie Les CHERUBINS"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4752552,
+                    6.3770969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Avotrou",
+                "name": "Pharmacie Avotrou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4294075,
+                    6.366523099999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Nouvelle Pharmacie St Michel",
+                "name": "Nouvelle Pharmacie St Michel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3628796,
+                    6.5110907
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie akassato",
+                "name": "Pharmacie akassato"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3428264,
+                    6.3938986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Godomey Centre",
+                "name": "Pharmacie Godomey Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4301235,
+                    6.373147499999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie le Nokoue",
+                "name": "Pharmacie le Nokoue"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3428264,
+                    6.3938986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Godomey Centre",
+                "name": "Pharmacie Godomey Centre"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3118264,
+                    6.418075899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Maria-Gléta",
+                "name": "Pharmacie Maria-Gléta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3421766,
+                    6.463641099999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie st Gérard de zoundja",
+                "name": "Pharmacie st Gérard de zoundja"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3006039,
+                    6.3884746
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Concorde",
+                "name": "Pharmacie Concorde"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.469187,
+                    6.367125799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie La Cite",
+                "name": "Pharmacie La Cite"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3277871,
+                    6.4019866
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie La Rose",
+                "name": "Pharmacie La Rose"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3186053,
+                    6.425645800000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie St Abel",
+                "name": "Pharmacie St Abel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3526504,
+                    6.527969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie FIFAME",
+                "name": "Pharmacie FIFAME"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3547488,
+                    6.502604399999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Gninnin",
+                "name": "Pharmacie Gninnin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3562034,
+                    6.457580800000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Le Chateau",
+                "name": "Pharmacie Le Chateau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.5474126,
+                    6.3939559
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Ekpe",
+                "name": "Pharmacie Ekpe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.087694,
+                    6.3748624
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie LA PROVIDENCE",
+                "name": "Pharmacie LA PROVIDENCE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3290399,
+                    6.4230752
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Djadjo pharmacie immaculé",
+                "name": "Djadjo pharmacie immaculé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4668108,
+                    6.3814774
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Grpe Han Medi Sante-Phcie Hounchede",
+                "name": "Grpe Han Medi Sante-Phcie Hounchede"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.2659392,
+                    6.407606500000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie De Hevié",
+                "name": "Pharmacie De Hevié"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6284181,
+                    6.4208301
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Djèrègbé",
+                "name": "Pharmacie Djèrègbé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3419416,
+                    6.4052542
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Togoudo",
+                "name": "Pharmacie Togoudo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3171034,
+                    6.4024562
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie ETITAYÔ WOMEY",
+                "name": "Pharmacie ETITAYÔ WOMEY"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6319203,
+                    6.486905200000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Kandévié",
+                "name": "Pharmacie Kandévié"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.5997667,
+                    6.506105499999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Dowa",
+                "name": "Pharmacie Dowa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.5842062,
+                    6.566374299999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Kpedetin",
+                "name": "Pharmacie Kpedetin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3130566,
+                    6.4350784
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie St Marcellin",
+                "name": "Pharmacie St Marcellin"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.2762251,
+                    6.455877099999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Les Graces Divines de Ouedo",
+                "name": "Pharmacie Les Graces Divines de Ouedo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6413965,
+                    6.472116699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Agbokou",
+                "name": "Pharmacie Agbokou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.06373,
+                    7.18048
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie De l'Etoile De Kpokon",
+                "name": "Pharmacie De l'Etoile De Kpokon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3331312,
+                    6.4363768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie la Référence",
+                "name": "Pharmacie la Référence"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3547563,
+                    6.446663099999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie du Lac",
+                "name": "Pharmacie du Lac"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.5990835,
+                    6.4224777
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Nouvel Horizon",
+                "name": "Pharmacie Nouvel Horizon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.0626598,
+                    7.175345300000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie AZONNIGBO",
+                "name": "Pharmacie AZONNIGBO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.0901521,
+                    7.1713935
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie HOUEFA",
+                "name": "Pharmacie HOUEFA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1495807,
+                    6.6633108
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Adanhounsa",
+                "name": "Pharmacie Adanhounsa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.5637057,
+                    6.3897537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Djeffa",
+                "name": "Pharmacie Djeffa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6444532,
+                    6.4841088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Badirou",
+                "name": "Pharmacie Badirou"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6629807,
+                    6.431047999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Tohouè",
+                "name": "Pharmacie Tohouè"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6985613,
+                    6.4247622
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Owodé",
+                "name": "Pharmacie Owodé"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.7153759,
+                    6.6406605
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie ZOGBEDJI",
+                "name": "Pharmacie ZOGBEDJI"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1480467,
+                    6.6807323
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Louvertu",
+                "name": "Pharmacie Louvertu"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.9027998,
+                    6.6243484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie EYRAM",
+                "name": "Pharmacie EYRAM"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6973968,
+                    6.3788607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Kraké",
+                "name": "Pharmacie Kraké"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.7153616,
+                    6.641519300000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Le Bon Samaritain",
+                "name": "Pharmacie Le Bon Samaritain"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.086133,
+                    7.152783800000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie AGNIDE",
+                "name": "Pharmacie AGNIDE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6300669,
+                    6.496452299999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Olayèmi",
+                "name": "Pharmacie Olayèmi"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6134595,
+                    6.4985316
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Sainte Marie",
+                "name": "Pharmacie Sainte Marie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.3796542,
+                    10.2956411
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Tissanta",
+                "name": "Pharmacie Tissanta"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6592839,
+                    6.7273407
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Achimi Sakete",
+                "name": "Pharmacie Achimi Sakete"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6192955,
+                    6.889715000000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Olabissi D'ikpinlè",
+                "name": "Pharmacie Olabissi D'ikpinlè"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.66828,
+                    6.986219999999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Grace Divine",
+                "name": "Grace Divine"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6480344,
+                    6.532941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "PHARMACIE SEDJRO DE OUANHO",
+                "name": "PHARMACIE SEDJRO DE OUANHO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.5889673,
+                    6.5637088
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "PHARMACIE ADOUNI",
+                "name": "PHARMACIE ADOUNI"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.4979959,
+                    6.6957508
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmcie Adjohoun",
+                "name": "Pharmcie Adjohoun"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3536561,
+                    6.4731537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie ARCONVILLE",
+                "name": "Pharmacie ARCONVILLE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3384621,
+                    6.465352499999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Zoca",
+                "name": "Pharmacie Zoca"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3399256,
+                    6.452508099999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie l'Angelus",
+                "name": "Pharmacie l'Angelus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3589332,
+                    6.5200968
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie St Georges",
+                "name": "Pharmacie St Georges"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3468111,
+                    6.450282599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie St Pio",
+                "name": "Pharmacie St Pio"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3223936,
+                    6.4398341
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie de l’Immaculée Conception",
+                "name": "Pharmacie de l’Immaculée Conception"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3301103,
+                    6.4303252
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie le Schilo",
+                "name": "Pharmacie le Schilo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3186053,
+                    6.425645800000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie St Abel",
+                "name": "Pharmacie St Abel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3485304,
+                    6.425151899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie du Campus UAC",
+                "name": "Pharmacie du Campus UAC"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3426142,
+                    6.432672399999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Fleuve de vie",
+                "name": "Pharmacie Fleuve de vie"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3331312,
+                    6.4363768
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie la Référence",
+                "name": "Pharmacie la Référence"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3440263,
+                    6.4446335
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Emmanuel",
+                "name": "Pharmacie Emmanuel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.9870611,
+                    7.1819017
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie azally",
+                "name": "Pharmacie azally"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6509866,
+                    9.3341434
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie ARAFAT",
+                "name": "Pharmacie ARAFAT"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.2399368,
+                    7.970377399999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie de la savane",
+                "name": "Pharmacie de la savane"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.2375648,
+                    7.9549322
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Principale Glazoue",
+                "name": "Pharmacie Principale Glazoue"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.0105638,
+                    7.1841032
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie goho",
+                "name": "Pharmacie goho"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.997914,
+                    7.1855299
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie St Luc De Djimè",
+                "name": "Pharmacie St Luc De Djimè"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.9683441,
+                    7.075908499999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Agbangnizoun",
+                "name": "Pharmacie Agbangnizoun"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.966975,
+                    7.067667500000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Saint Edmond d'Agbangnizoun",
+                "name": "Pharmacie Saint Edmond d'Agbangnizoun"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1495807,
+                    6.6633108
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Adanhounsa",
+                "name": "Pharmacie Adanhounsa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.2788571,
+                    6.5885677
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Le Lotus",
+                "name": "Pharmacie Le Lotus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1602037,
+                    6.661024699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie El BETHESDA",
+                "name": "Pharmacie El BETHESDA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6034502,
+                    6.519180200000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Unite Akonaboe",
+                "name": "Pharmacie Unite Akonaboe"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3912988,
+                    6.382036599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Vêdoko",
+                "name": "Pharmacie Vêdoko"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3740616,
+                    6.385038899999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Oladjouan",
+                "name": "Pharmacie Oladjouan"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6582846,
+                    6.5548047
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "PHARMACIE NOUVEL ESPOIR (AVRANKOU)",
+                "name": "PHARMACIE NOUVEL ESPOIR (AVRANKOU)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6480344,
+                    6.532941
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "PHARMACIE SEDJRO DE OUANHO",
+                "name": "PHARMACIE SEDJRO DE OUANHO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.7028015,
+                    6.9473986
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie St Marcel",
+                "name": "Pharmacie St Marcel"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6346265,
+                    9.3353325
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Banikanni",
+                "name": "Pharmacie Banikanni"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6772932,
+                    10.2412573
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Bwendora",
+                "name": "Pharmacie Bwendora"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6384076,
+                    9.3308138
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie du Campus",
+                "name": "Pharmacie du Campus"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6205312,
+                    9.397695599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Confiance",
+                "name": "Pharmacie Confiance"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.8910426,
+                    8.41011
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "PHARMACIE BANTE",
+                "name": "PHARMACIE BANTE"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3573553,
+                    6.3756607
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie SAFARI AGLA",
+                "name": "Pharmacie SAFARI AGLA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.9027998,
+                    6.6243484
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie EYRAM",
+                "name": "Pharmacie EYRAM"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.8821779,
+                    6.404772599999998
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Grande Pharmacie de Comè Carrefour",
+                "name": "Grande Pharmacie de Comè Carrefour"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.5491249,
+                    9.834537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Copargo",
+                "name": "Pharmacie Copargo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.3488246,
+                    7.220152799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Layo",
+                "name": "Pharmacie Layo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.340721,
+                    7.219650000000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Wahouédon",
+                "name": "Pharmacie Wahouédon"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1830225,
+                    7.7796492
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie DASSA CARREFOUR",
+                "name": "Pharmacie DASSA CARREFOUR"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1938455,
+                    7.7775288
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Les Collines",
+                "name": "Pharmacie Les Collines"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.7175291,
+                    6.901265299999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmarcie Ste Véronique",
+                "name": "Pharmarcie Ste Véronique"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.9364344,
+                    7.340707599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie PENIEL DE DJIDJA",
+                "name": "Pharmacie PENIEL DE DJIDJA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.067334,
+                    7.1813072
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Saint Henri",
+                "name": "Pharmacie Saint Henri"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.0673225,
+                    7.175186399999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie midokpo",
+                "name": "Pharmacie midokpo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.6628648,
+                    9.6963943
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Taïfa",
+                "name": "Pharmacie Taïfa"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6443425,
+                    9.3239223
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Saint Benoît",
+                "name": "Pharmacie Saint Benoît"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.7747044,
+                    6.799002799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie GLORIA DEI DE DOGBO",
+                "name": "Pharmacie GLORIA DEI DE DOGBO"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.7109647,
+                    6.628124799999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Nouvelle Pharmacie Zogbédji",
+                "name": "Nouvelle Pharmacie Zogbédji"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6310754,
+                    6.476892599999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Suru Lere",
+                "name": "Pharmacie Suru Lere"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1749084,
+                    6.8112835
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Cité de Paix Houegbo",
+                "name": "Pharmacie Cité de Paix Houegbo"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    1.9027338,
+                    6.624730699999999
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Dépôt Pharmacie Sahouè",
+                "name": "Dépôt Pharmacie Sahouè"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.6363567,
+                    6.477351
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie TOFFA 1er",
+                "name": "Pharmacie TOFFA 1er"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    3.3822468,
+                    10.2914783
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "PHARMACIE KAAYA",
+                "name": "PHARMACIE KAAYA"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.9268044,
+                    11.1327067
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Albarika",
+                "name": "Pharmacie Albarika"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.1128434,
+                    10.8251307
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Na Siara de KEROU (NSK)",
+                "name": "Pharmacie Na Siara de KEROU (NSK)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.611842,
+                    7.367196700000001
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Principale Ketou (2020)",
+                "name": "Pharmacie Principale Ketou (2020)"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    2.599579,
+                    8.5728479
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "description": "Pharmacie Oluwa-tobi, Kilibo, BENIN",
+                "name": "Pharmacie Oluwa-tobi, Kilibo, BENIN"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
